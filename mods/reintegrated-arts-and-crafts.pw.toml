@@ -1,0 +1,13 @@
+name = "Reintegrated: Arts and Crafts"
+filename = "reintegrated_arts_and_crafts-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f6f91e0e3a18b69def715a3b0f90fbe148a8142"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6521551
+project-id = 1205707

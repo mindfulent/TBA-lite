@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "tba-lite-stubs",
+  "version": "${version}",
+  "name": "TBA Lite Stubs",
+  "description": "Compatibility stubs for TBA-Lite modpack — registers payload types and display block from StreamCraft, SynthCraft, SceneCraft, and CoreCurriculum",
+  "authors": ["Slash"],
+  "license": "ARR",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.tba.lite.stubs.TbaLiteStubs"],
+    "client": ["com.tba.lite.stubs.TbaLiteStubsClient"]
+  },
+  "provides": ["streamcraft", "synthcraft", "scenecraft", "corecurriculum"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

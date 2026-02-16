@@ -1,0 +1,191 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_open",
+        "uvlock": true
+      },
+      "when": {
+        "OR": [
+          {
+            "AND": [
+              {
+                "open": "false"
+              },
+              {
+                "facing": "south"
+              }
+            ]
+          },
+          {
+            "AND": [
+              {
+                "open": "true"
+              },
+              {
+                "facing": "east"
+              },
+              {
+                "hinge": "left"
+              }
+            ]
+          },
+          {
+            "AND": [
+              {
+                "open": "true"
+              },
+              {
+                "facing": "west"
+              },
+              {
+                "hinge": "right"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_open",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "OR": [
+          {
+            "AND": [
+              {
+                "open": "false"
+              },
+              {
+                "facing": "west"
+              }
+            ]
+          },
+          {
+            "AND": [
+              {
+                "open": "true"
+              },
+              {
+                "facing": "south"
+              },
+              {
+                "hinge": "left"
+              }
+            ]
+          },
+          {
+            "AND": [
+              {
+                "open": "true"
+              },
+              {
+                "facing": "north"
+              },
+              {
+                "hinge": "right"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_open",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "OR": [
+          {
+            "AND": [
+              {
+                "open": "false"
+              },
+              {
+                "facing": "north"
+              }
+            ]
+          },
+          {
+            "AND": [
+              {
+                "open": "true"
+              },
+              {
+                "facing": "west"
+              },
+              {
+                "hinge": "left"
+              }
+            ]
+          },
+          {
+            "AND": [
+              {
+                "open": "true"
+              },
+              {
+                "facing": "east"
+              },
+              {
+                "hinge": "right"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_open",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "OR": [
+          {
+            "AND": [
+              {
+                "open": "false"
+              },
+              {
+                "facing": "east"
+              }
+            ]
+          },
+          {
+            "AND": [
+              {
+                "open": "true"
+              },
+              {
+                "facing": "north"
+              },
+              {
+                "hinge": "left"
+              }
+            ]
+          },
+          {
+            "AND": [
+              {
+                "open": "true"
+              },
+              {
+                "facing": "south"
+              },
+              {
+                "hinge": "right"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

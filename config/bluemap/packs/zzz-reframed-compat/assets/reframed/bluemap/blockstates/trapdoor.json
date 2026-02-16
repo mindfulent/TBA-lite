@@ -1,0 +1,103 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_bottom",
+        "uvlock": true
+      },
+      "when": {
+        "AND": [
+          {
+            "open": "false"
+          },
+          {
+            "half": "bottom"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_top",
+        "uvlock": true
+      },
+      "when": {
+        "AND": [
+          {
+            "open": "false"
+          },
+          {
+            "half": "top"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_open",
+        "uvlock": true
+      },
+      "when": {
+        "AND": [
+          {
+            "open": "true"
+          },
+          {
+            "facing": "north"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_open",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "open": "true"
+          },
+          {
+            "facing": "east"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_open",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "open": "true"
+          },
+          {
+            "facing": "south"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/trapdoor_open",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "AND": [
+          {
+            "open": "true"
+          },
+          {
+            "facing": "west"
+          }
+        ]
+      }
+    }
+  ]
+}

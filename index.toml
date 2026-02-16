@@ -1,0 +1,2653 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/AdvancedBackups.properties"
+hash = "28b1af7e1ccd9695166ec1df33e0d08c1ec078e6e186e0b2e8c0228fe9e10acf"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "96160eb5ef28e1b349eb91f9c09d8f87367e4b6acfb8d4f40cd56ad22ef85265"
+
+[[files]]
+file = "config/autohud.json5"
+hash = "704c75ce412e41f580017ee3355005aab5b3b702eef4a0e942035382a17b402a"
+
+[[files]]
+file = "config/axiom/axiom.json"
+hash = "fe2109b2c6ddfebbd3f15fd98e180774a262d447029dd6f46e794ad6b86fde78"
+
+[[files]]
+file = "config/bluemap/core.conf"
+hash = "b942611c074c37431c5c24d6d63faaf731e5e3b0a4f210370f3237617031b89e"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockProperties.json"
+hash = "122f593312b218a68084eca9015a737c2b63fbf0ab1df002dedef81074eafba7"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/button.json"
+hash = "dcdc9ada9c19ea400819505776540e5c025e55785e45b97af5001e3b92f94b99"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/cube.json"
+hash = "5b82f07d66276e765aeb934254484a8c4cc8733161cf335592fd639fb286349c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/door.json"
+hash = "e19d262003d89a14ca98a598ef2a6bc9686e1b374a01d93705af2452529734ce"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/fence.json"
+hash = "62fa63b8e126550040867aec4fff13142d975b6cb1bf6483770b9fb4d2950852"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/half_layer.json"
+hash = "2e2e44d09494ff54ca04dce743d3325226be549d43c8eff1987399b6090adb52"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/half_slab.json"
+hash = "d42dcce62f7fd2145c58d9f3c8dee1c818d4d15a8a1141c063ec00b93b420913"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/half_slabs_slab.json"
+hash = "28d146913bd0ebc8cfe444115b48be3541c313387a2f9f575ef791fb2808c5c8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/half_stair.json"
+hash = "5ef51005b7382d407b2a79c1600e1777bb5e7fae1e3cbb2bed7c12c6e1c82411"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/half_stairs_cube_stair.json"
+hash = "5b82f07d66276e765aeb934254484a8c4cc8733161cf335592fd639fb286349c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/half_stairs_slab.json"
+hash = "28d146913bd0ebc8cfe444115b48be3541c313387a2f9f575ef791fb2808c5c8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/half_stairs_stair.json"
+hash = "5ef51005b7382d407b2a79c1600e1777bb5e7fae1e3cbb2bed7c12c6e1c82411"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/half_stairs_step_stair.json"
+hash = "5ef51005b7382d407b2a79c1600e1777bb5e7fae1e3cbb2bed7c12c6e1c82411"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/layer.json"
+hash = "940bf1da7e3e772c8d98e4866336644595903231443d766129bde51fad86d7bd"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/pane.json"
+hash = "5501f46760b52faffe3078a26769bf86660576c05761de4beb0284aecbda03e8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/pillar.json"
+hash = "0f0af9e8cdbabb73638d09d40864597489d5d2e2122df1c1f3d9efde766430fa"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/pillars_wall.json"
+hash = "2dda5a5dbfef72c838d01ac0a91ca4ef1e8bde69d88d3ab9b373e10a58d49891"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/post.json"
+hash = "034550b811a275f6904fa900fef3215ea5aff1e212ba3a34d6b69c312bb5424c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/post_fence.json"
+hash = "62fa63b8e126550040867aec4fff13142d975b6cb1bf6483770b9fb4d2950852"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/slab.json"
+hash = "1a66d5925045a095dc84e5b636f4e63bfa1398bc54fe7bcb361628f2e9c42f7b"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/slabs_cube.json"
+hash = "5b82f07d66276e765aeb934254484a8c4cc8733161cf335592fd639fb286349c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/slabs_half_layer.json"
+hash = "28d146913bd0ebc8cfe444115b48be3541c313387a2f9f575ef791fb2808c5c8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/slabs_inner_stair.json"
+hash = "92bfb4f24329407510e0b27da5cf451938d4f9099c52431aaf434c6f0c57768d"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/slabs_layer.json"
+hash = "28d146913bd0ebc8cfe444115b48be3541c313387a2f9f575ef791fb2808c5c8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/slabs_outer_stair.json"
+hash = "7113fc0fabc030cf541f0ba4dc35a8cfad8ea1e72969cc141fb69dc27895a1e7"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/slabs_stair.json"
+hash = "5ef51005b7382d407b2a79c1600e1777bb5e7fae1e3cbb2bed7c12c6e1c82411"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/small_cube.json"
+hash = "2e7898e2c26782d388864f9ffa1316d0e0699eeda5959a0a3df2057ac6a134b5"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/small_cubes_step.json"
+hash = "d42dcce62f7fd2145c58d9f3c8dee1c818d4d15a8a1141c063ec00b93b420913"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/stair.json"
+hash = "5ef51005b7382d407b2a79c1600e1777bb5e7fae1e3cbb2bed7c12c6e1c82411"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/stairs_cube.json"
+hash = "5b82f07d66276e765aeb934254484a8c4cc8733161cf335592fd639fb286349c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/step.json"
+hash = "d42dcce62f7fd2145c58d9f3c8dee1c818d4d15a8a1141c063ec00b93b420913"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/steps_cross.json"
+hash = "28d146913bd0ebc8cfe444115b48be3541c313387a2f9f575ef791fb2808c5c8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/steps_half_layer.json"
+hash = "d42dcce62f7fd2145c58d9f3c8dee1c818d4d15a8a1141c063ec00b93b420913"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/steps_slab.json"
+hash = "28d146913bd0ebc8cfe444115b48be3541c313387a2f9f575ef791fb2808c5c8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/trapdoor.json"
+hash = "2bfdc1b506fc2e878474cc795687dc2aa6bba881699650cd4c31a274562be944"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/blockstates/wall.json"
+hash = "2dda5a5dbfef72c838d01ac0a91ca4ef1e8bde69d88d3ab9b373e10a58d49891"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/button.json"
+hash = "69ee75ebf21ffed2bb33db10658cd54db4c440978ce92ce3e70c6305912f9a8b"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/cube.json"
+hash = "5b82f07d66276e765aeb934254484a8c4cc8733161cf335592fd639fb286349c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/door.json"
+hash = "8796876b52cac5930ad768b9ba50fc5210c2b73239d61a3fe7c8953fab78808c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/fence.json"
+hash = "61dab9bf00156ac9858902a341a8a3fc9765a22f4f6143ae0e75aa841febf0b3"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/half_layer.json"
+hash = "c23f04b3035ed9370e659b7bb4c1a90fd4a2ce59b9b531845008e760cc1234ce"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/half_slab.json"
+hash = "5be0a0fea2fa79c3248cfadd0ce4d11a245e922915a9b8e21762dc51892689bb"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/half_slabs_slab.json"
+hash = "13a0d0842957f5c3ebefe5825d6dbadb3c2c4d810ac7770dd10acd39947bac01"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/half_stair.json"
+hash = "840050c3423fe44d61fa752a41f130418644caf63440494ed0acc6c13c923d73"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/half_stairs_cube_stair.json"
+hash = "efbc9216c547e4e54b95a26b047fcb546f23ad1649391c86c078489a33d8c221"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/half_stairs_slab.json"
+hash = "8674558752a0e657fdc31b17db0d882be15a11ce0baf67f65ac73e113149f64f"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/half_stairs_stair.json"
+hash = "3304fd668106b28a0d3de593a087be61f9558b26759a2c5e309bec2fed4bc291"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/half_stairs_step_stair.json"
+hash = "380975c6e1f11d05d68744385d436ccc5aeec887ce58b5dcce28171cc5e07050"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/layer.json"
+hash = "21aa58763ea26a5de21a5669d7191b5a1b4b3b9bb6aabf7d7c52943c5a619c94"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/pane.json"
+hash = "e78bbfb5e8d091ca381c17f68fa0be03b9523fb3c428d011e4104bc929aedf69"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/pillar.json"
+hash = "5450ce55a0d8bc8fa9684d3b9bef637f4246c2ce24dbf11c0f3eac9b2cdb86a4"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/pillars_wall.json"
+hash = "b33dcd6df40d84a8d7cb4720717f5b2fe73c3c3b513b5a76042507e0979dad1f"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/post.json"
+hash = "11e287c8f44a4d995b2af22af6f4bb506643a9116a7bca1a654a5d720ca1ce59"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/post_fence.json"
+hash = "bdfb1180c5f280bf136a80a0e0c95bd1bf55cd859a7f1c1dc4c1e761e3f3e8a3"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/slab.json"
+hash = "28d146913bd0ebc8cfe444115b48be3541c313387a2f9f575ef791fb2808c5c8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/slabs_cube.json"
+hash = "ccbd44eaa8fc88a8575428a5171447952f20a2137d4e6e8da32a76796cfbfa50"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/slabs_half_layer.json"
+hash = "7efa15c64f7285e340bd1468a706a72dd1eb41e7134388a6b5296b43d3743486"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/slabs_inner_stair.json"
+hash = "78acaec2d1ffe0043e7572e1c5d58638555045778a37e7b36ebd55de30e185a6"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/slabs_layer.json"
+hash = "f45f0894b1517a69d1cba3c5282e49b546677a44212c4b42455ef68e93588b95"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/slabs_outer_stair.json"
+hash = "10aca48aee307832e089c8f2e28949341fd436a9c0f862bc92b521c404b342ec"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/slabs_stair.json"
+hash = "e2fbb54c2320ab5488b0f173b18869f203bae45032b400acf56bb01184d2e963"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/small_cube.json"
+hash = "d2e5ca445485fdfe9d460f4298d3c738a336b24c50d734d2a187cbff4ef96416"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/small_cubes_step.json"
+hash = "7646eb74e01fb84bb62d9e2c594b668ec2c256a3f1b8b269a160c1fcba7df576"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/stair.json"
+hash = "5ef51005b7382d407b2a79c1600e1777bb5e7fae1e3cbb2bed7c12c6e1c82411"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/stairs_cube.json"
+hash = "f26c7be7355beefd6b4823212283243a550eaf2ec6bd631ffd8342ad88157d92"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/step.json"
+hash = "bf6ba66749e529d753a8d21a5fd4044995d9ebdd6698fb0d7cb0f097b165296f"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/steps_cross.json"
+hash = "ad5cd04d8723bd6794db53b6403f363cc84f06cc32e70b6613688e155c397653"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/steps_half_layer.json"
+hash = "607eab60c9f6190680e6d2e5720a3edab25f671c9f8e9f111b5eda6c8841f238"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/steps_slab.json"
+hash = "283c89801aaf2d46666cd52fc57a763721cd3bc5429bfca4d81fabc68fb66960"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/trapdoor.json"
+hash = "899a3b061af0f391f9313d37252edc6f6d4a6436d112a1d12a08f645fe39d979"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/bluemap/blockstates/wall.json"
+hash = "dc489d9630ad7dc75b8200a15d371f94ec424abf38b8952e163bbe72a84e9e98"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/button.json"
+hash = "3c82168df541e0a092cc13b8675cfa239aab28f29009e2558bcdb387f6e042b2"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/button_pressed.json"
+hash = "e085bcacd533e5f996dd19f45791f72f49d090690b5c7b53d0d365b360993239"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/cube.json"
+hash = "2e21bbc919652e55c60db78e45f4f24b512689e350048157b99c58beb4cfe166"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/door_bottom_left.json"
+hash = "625f8b5776f978658fd204a562cf3992856b6123c85e6cffb5da0776c9512bdf"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/door_bottom_left_open.json"
+hash = "ab58ce540bb7d52a6809341bc7239bc6e11e9cb916c9bc3907e15fabbb80db27"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/door_bottom_right.json"
+hash = "2486fc12af08b869e53927bed3f76dac8f1459f19e8d3fe67e3ab652e2b0e09f"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/door_bottom_right_open.json"
+hash = "556adeb60df5b27e517cd8b25102c906fce2655d6b1049845b6c1d1acbc18895"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/door_top_left.json"
+hash = "a132c829a4cf42496f7cc1304fe561f5b7f8957643e758b62c95edfd5fd92cf1"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/door_top_left_open.json"
+hash = "f30b60598df2e5800717771426a39b430d9ba0bfa7e3d8a50a9c47d8f6f02c65"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/door_top_right.json"
+hash = "17fb0ce89b213f7a433ba3cd4c9e244b5024ec43cc6eef78dac55c5b063709fd"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/door_top_right_open.json"
+hash = "90712191ab4b358f76bf54e7fff8f3d1baad629a079c57bf3ec90b575a1795e2"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/fence_post.json"
+hash = "7eb54a0b2156a27ff0691b16a13452d757272bc0d2b614dc1db0d611940bb2be"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/fence_side.json"
+hash = "030c9bb118bf8c450bf507890edad70c41261d3866b797ea51b202116b57c832"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/inner_stairs.json"
+hash = "47f515bf1ba44e6e84eddf9a4a9935d7988ef1f2b47dd5c34780d47b7cec51a1"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/layer_2.json"
+hash = "b50cec1ae7f13b70408be9bf9fa47cc68d633c478bfb5ec7daeeffaaf166af50"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/layer_4.json"
+hash = "b599ffae14460feb715449a01ff80d5843f5be87a54a7e6c6857bb48b11823a8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/outer_stairs.json"
+hash = "790d4572165fb9b4c2487b4e96f3bb439361288b0789a9acbf314dc98f379b25"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/pane_noside.json"
+hash = "7b0e3c2bba81a48e16c9b5691bc23d93bfb1d0b78da28b6818599f21a33d41f7"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/pane_noside_alt.json"
+hash = "d9e69d92d4e3cb4289bf4aba860b9fffc9a65508218f85dce9c38ec9a4c7d85f"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/pane_post.json"
+hash = "0e91cca2d942840e57da0d22872d2b19aa739b8a60de1b20556277a2578754c8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/pane_side.json"
+hash = "3699d8c257eaf213348fe5ff01dcc2ff29e497087d5e0e76f917d489f1dd31ab"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/pane_side_alt.json"
+hash = "a899a7a2c08cb9f16807a9e591c9a6550327de529061a69c1b3f9a5a5e6c0aef"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/pillar.json"
+hash = "1934c601b6710f8648d863a80ad8c5c6a02c3e5f6d3f2ff2d4fb66827e41ec9c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/post.json"
+hash = "489fcfd1c1182e0037b978405f776d5584847a1eab8ba16e633cd83f939e012d"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/slab.json"
+hash = "6fcdd63f511d8acda4f208789c47b17c86a533c7ff4956467540671b1c0d4a06"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/slab_top.json"
+hash = "86e059100f3e74d383d74c607e3e17f77a50437b699ab3404eee5035668d0f9c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/small_cube.json"
+hash = "ebac6ad35861246e9c3e884494a5f0282b10ff5b9cd31bbea6467773dbf21ddf"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/stairs.json"
+hash = "7ea0f0b0abd22f38ed25afdf404d4643be6ed715c9bcb2f311cdda78045fb5b4"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/step.json"
+hash = "cc2d8a8fb0aedf22ae33f874a72da7ab0b6fb97b6c64137ce9afbdde4eef8bc4"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/trapdoor_bottom.json"
+hash = "880d38e2b7a0a2f34022265fcdb163201dec6f77b6aaea0017f588e368d99903"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/trapdoor_open.json"
+hash = "21e519e3e72b1c4cdd6ecb41626338952ee29766af790636b35d9f01a5d30a79"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/trapdoor_top.json"
+hash = "c758022685f7eb6bd954cd9b84c6d97b0d35c752094f3e25a6a2df24f951674c"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/wall_post.json"
+hash = "0770042a05beab5936707578e9180bdbf350543503769a071d1432d65d3b1ad8"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/wall_side.json"
+hash = "0a57fcf8a56f2efd5b33e44a2b5bf6fcaa7f6fb18460b74c8c3dca8857debac6"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/models/block/wall_side_tall.json"
+hash = "0d488961e5e0782f4a7cd9ea7c103d5067f466fce8f16d031d7af1560dbc2770"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/textures/block/framed_accent_block.png"
+hash = "a9f1dd6c30d8679e30e99aa0fd6250382ac86c3de244996ffe2b9822473dcd51"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/assets/reframed/textures/block/framed_block.png"
+hash = "4cda4c744b8448c1ad7f75c2282c49df32269dbc47332b7cac9e55db8e422648"
+
+[[files]]
+file = "config/bluemap/packs/zzz-reframed-compat/pack.mcmeta"
+hash = "53002fa5eac2c14cd920d26e93f502e0ba7e74d7bbfeb2b4e7b914d3f0b3676a"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "8d873e188b88f5eb15af95caccb4eb2d9732ff1b4920c0ebe8facd97e956021e"
+
+[[files]]
+file = "config/fabric-seasons.json"
+hash = "a3b8196f10c965eadcd19784324f4e2ba73e4a65b7fc76bf5be020f4936c03b4"
+
+[[files]]
+file = "config/fetzis_asian_deco/fetzis-asian-deco-config.json"
+hash = "38a0c151dd48aed356762cf14e44a31e6ca7d62d550727a7f805a42a7aa69f43"
+
+[[files]]
+file = "config/iris.properties"
+hash = "268f71f955aede24519f4cae967624cc18b0358d1e5c0ddb88645cc7e70c0b1b"
+
+[[files]]
+file = "config/ledger.toml"
+hash = "532cbf4a6b47f08f552d5345f72ed6b0a6194045383eafb053d97f564a584708"
+
+[[files]]
+file = "config/litematica.json"
+hash = "74a7ad91461dc4b56affb40cf60973ca4eed3dd956e89d88957e5eb156dc7b0d"
+
+[[files]]
+file = "config/replaymod.json"
+hash = "b9f0990f980d4af317ff4ff5a79ed117515aba7ad3ddeeebd401c06dc20875b9"
+
+[[files]]
+file = "config/worldedit/schematics/butler.schem"
+hash = "b3304afb33cd9ebfced2c06b990dd3e20675a64a35589c156b0b06630129d9f4"
+
+[[files]]
+file = "config/worldedit/schematics/mcc.schem"
+hash = "84a3c8848190eb4832f8e47798ba686a35d83e682f01f3d7ba8b228acce9f0e2"
+
+[[files]]
+file = "defaultconfigs/voicechat/voicechat-client.properties"
+hash = "8d10cb5c84c81383401303205083c9a0f97766ab1ca4a6e616182f8354901d09"
+
+[[files]]
+file = "docs/PRD.md"
+hash = "cc0d83acac1a760d6a5994932339ee8caf2208114ab4af4a5a619d2713ea418e"
+
+[[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "c216152e4706477b3e07f00fcefef921b37bc1008501862a9b6bb44dd44dc05e"
+metafile = true
+
+[[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "8f0c48a35946463f78f9e16f6540c206ceb7e76329e90f1279c051880eb2e845"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "e996c3b3636e3800392995ecd25891afba12e54ca4f3c811d21adb764c62ec36"
+metafile = true
+
+[[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "1dd7aab77b1254ee690399f33d4ef32eab2cb5db1f710ceb41a267e2ca7368ac"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "dfe94ceda04a13c2dfb03363c308f7f39ae526b4ed35d0b3e4f9a8e87a14da90"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3bcf892fd8c00fa89260e6c47e80cc7e95ba57aedd104ebf8b71179fc8f45534"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "d50b4cffb97b354bbe88bf28c82d1f7ff32c087bdcfd39c7e266f4b4cdb90385"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "18d997180565ef8d06e361b9de07db9b66cdfea38d61e037932cf3410068f2d4"
+metafile = true
+
+[[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "7e39bf4def989a8a9ed04605cd477e027eef1d3b128bf8fe2574a9e1a724aaa3"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "9291a703bee9ba90c6347d31e5d9d01ee5eb52e9c0c4ad17bcd9d2ab51d7c4a2"
+metafile = true
+
+[[files]]
+file = "mods/autowhitelist.pw.toml"
+hash = "070db28dc60f5d70f226038e34a639cb49385dfd2e0229b15f4aab0f20a51d51"
+metafile = true
+
+[[files]]
+file = "mods/axiomtool.pw.toml"
+hash = "6befc516d6748cf716d26c19fe5f566e590d66afe024ae1aaf8e7f69f5a9397e"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "e2f2a6f6ff38054ce8d91a43a20b79ea7b4e84cb924142fb7d2bcfdd95fe5b57"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "06a9a3c8e2a72ebf3ab24e65c6af9197f2b8759013b6df51b55bc2e694f06c23"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "07fba719069577abb913118c7d8dae4fc6ee43f13c0fb730f1f4532df09c2e70"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "82ead9857bbba5cd8885a603a0f0d4cd2e33cad2370d064b05536bfed76e16f8"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "a969b379448aeafadc94d95116472aa4d80fd3b84385d7e5f5625a9a9baf532d"
+metafile = true
+
+[[files]]
+file = "mods/better-sleep.pw.toml"
+hash = "642e862f4be77db00a3afd2105efb10b81d874e0afc32c621cf1bb7f087fe410"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "4b69c05191af05ac74417be433416efe53f8255785c96f0bb7a4c807364dbe87"
+metafile = true
+
+[[files]]
+file = "mods/block-runner.pw.toml"
+hash = "4764451d709f750d9fa0fe58e776cfdb27e409a87e9a9a0cf3e19aef4c4a611d"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0e1affbaa0eca32e3e1d90f6c134ac728aed33c9bc1ebd901b93df7029c98938"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "7e9f534e3c25d1d757374b55f766ce7dc4c9a98bcae530b1571fc7f914ff86da"
+metafile = true
+
+[[files]]
+file = "mods/c2me.pw.toml"
+hash = "512a9aa7d85f3cf154f36ac8e287889e5730088fe19b8eb0b1e9409ca2ba5756"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "b062a4a010bb5cc27638638008ed91ab656849500ad92dcbb8da291d7e64f1cb"
+metafile = true
+
+[[files]]
+file = "mods/camerapture.pw.toml"
+hash = "4e348f44ec7268e8f6af226848d45bd37a32d072f99b7bd5d57e808dc0311165"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "c079287cb8c6f38b85fd8dc0d69c31c23e3e3e59794dfafd9623606915e9b16d"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "6e626727628815dfde67945e219e6250af40c3cb3f87c9246431fadeaf61e6f4"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "e78ef39750baced1bcaab74fd7085c45e5d8bc59fedb833f1234c40d597a2dc6"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "453fffd7b93c3c080fbfe11f9c5fa5af5bee403b16a11732fd8a5d010c7cbde7"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "4c654385f4096117a6dad60848524f13b01a79752bfb919f2694e65ed8e8589a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "90950d188905b9472877ab8b3dbdbb778f37716f5e356178d12804cef90c3280"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "8924f70537405b8bc884504814f8963483268b492bcad4c6d87badde63ee69e5"
+metafile = true
+
+[[files]]
+file = "mods/clutter.pw.toml"
+hash = "687533345ba43a886c1b4508ef2c8f4365debb7e7f7c922ce664330b97782884"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "d557a08271666b4b928f4b7c8595fa54242d3428b46bf3ae417e1c2e5bbcc08f"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "3bc4a4de6b8b30c06c8b223c6decb6c1eb14c0156ea0b64a9ec8ba0ff80298e0"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "b50378ddd8de5877ce51ded7616ebbf3ad0a5e18af8125a473411fbabc6c37cd"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "85c6474576e5ae7c59c2b685e7484c305789df16a91fb6c971684f5f45e120ea"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "be11e8312045687a2e3d50bacf163e0b0c94e416cedd341d95d8f17ff9d85450"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "21cf696a57160fa67634e31b25d9b391aca2b465f261924fc508f96a28052377"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "320369bdeb2fdba3b11bdd170d567edb28a405dd9d56043dbfc406f859d819c7"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "47284e6859ec73eb0a33abb8d6ad05d2676d4b42272baa3faf112aefb9e67b11"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "96f1b71ca5468a241d14b3dfa6ce743a6e903d14585a7a167196f6359de20f89"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "04ede8fe1821a7781da660bafea1f45764d9c77254dcf9a45ff420a2585a3229"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "b7e36eacfad8731ad993ffbba158e33a013b736b48e271eb05143d00d99eeb4e"
+metafile = true
+
+[[files]]
+file = "mods/dusty-decorations.pw.toml"
+hash = "8d4f506e459f564f10324fc39237434b1b8e13ddb68e4ef3d558811f8705ea12"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "765d72129bfb30756fee8e30e11fc04c6658292b5041a5890aa89e7013a387f9"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash = "11679903810776914b0ae4b6d24f6fa2a3cb43e122f621890c8c00ad4a743f35"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "91850893a2c719b3b97c976c682f3897fd73535b04ee92ed214af2d6ebff460a"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.pw.toml"
+hash = "2c1d05da2179691fc1c27b53eaf942c32ff1528739a9be5e3a34dd2a92105696"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "309620d873a53504197b9c3d37d4b431d539346b8f8a6d7b1f77f74d7a2104d5"
+metafile = true
+
+[[files]]
+file = "mods/essential-permissions.pw.toml"
+hash = "d64e5252a06df94acdc7d1b4ea3f5435df5ee1789691e0cc1b05e3eca9b04549"
+metafile = true
+
+[[files]]
+file = "mods/even-more-instruments.pw.toml"
+hash = "da215694376b28d0eb2a94edb956316ba8cd5dce2d3a0c5ff6d65a5d0c47feff"
+metafile = true
+
+[[files]]
+file = "mods/excessive-building.pw.toml"
+hash = "ec9d79dfdc93fe3b36b19deee10622fe337602be7d732b233457ff6690730ff7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0364a64e7f6515dccf92e10512c81178b7afeb1ae031f8024620892769e69313"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "e6fca8f140f326b8484b7326d6720364a3855223b5f804a4d520f262541b001d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "f9efc3a8b92991d29b7117b9a0d9fd7a3f7d567d0139243f35c6257f56068b75"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "345dd4864f26bf7cb607c5ef4b1bbbe0d3f5b40c55d1b55b7c378e8bed5ebd0c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "286d2fb92fb551d877504eef812fe298d434c82928675bd847276cb81ecf3c17"
+metafile = true
+
+[[files]]
+file = "mods/fabricord.pw.toml"
+hash = "e9cdf7ca8cf7345a9b418adfd9295a0466f89d1291f141d18f718e773f794995"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "5fe387bcad2d72c9bdd7047c19fed3959dcc65e2615e188ae743c517c08209df"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "ddbe9a4b1ac99a451700180b9d708e2e56a0943af4d827c40c571e5efd89939d"
+metafile = true
+
+[[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "e1aa637ddf2acf55527f5dde4454ffff9238d7fc0d91202d53d99438ff1593eb"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "8c7b41abfa08d27d963da7327deb3ff3695b0f1ac9f5343cf59db1d2be12bad2"
+metafile = true
+
+[[files]]
+file = "mods/fetzis-asian-decoration.pw.toml"
+hash = "3ef931ecac18c048ec6f31094032205390303fe3cb6fdb7db7f6a5a3c6ae08b6"
+metafile = true
+
+[[files]]
+file = "mods/flan.pw.toml"
+hash = "c8afad16b766c237d33b72b0868ba62dc3afc246bd452a9b41a65d626b4c7d7c"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "c983c82dca8021666fe2aa4d1f96af383ce905d09ae284472e7cd5aa87582d41"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "b4cdd06c59b01823f66897869ea7fdc6a7b17713a1db4bbe0f28dc3f4617a1a6"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f58a4b8b19ffadeab28bd6e2aab0203b910edf1982b7ad0d74120e36ed52d381"
+metafile = true
+
+[[files]]
+file = "mods/gamemode-unrestrictor.pw.toml"
+hash = "4b849142d1fde1c7ada63015583ebeff1c563f5178289e425bbe373dc83027f6"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "cb12b0ef78d90dc292fa89f55954cea1f3d8ca605bf4543f10ba6bc40f2fd427"
+metafile = true
+
+[[files]]
+file = "mods/genshin-instruments.pw.toml"
+hash = "dc11093abd9858d02896484f8edb8e7bf96cac0c2398b34aec2dd8418692bfe5"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "66277e9b964625b29f645c543f4664af0ea6da018075b9fd3fd0276c3508c9f2"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "3f6a9195559683ffab3622bd5e95bea5336906b80317336c6bd645007e8ca869"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1c5e90c7879f5bbf069055aa60d04a86d8c80417b0a47d72b47cf16e3fb05f32"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "4c6f172f4aa3a6e7c691fd8e288d390bc083313f722f61238a27bc0c8b384c2a"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "5ccc278a3d87aa14b3f299473afda96bee9f360dfa16a268cd45195a5d631ffb"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "c2758c15ba6f06ce810fe20dc5ef95ad253741f6ebb00e53d8d1555da06642ca"
+metafile = true
+
+[[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "837455f9b0eadb4954a1d0dec0702b33fdf905224bee742cbf3a56b423b067e1"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "72f488045d39a86545682412734fcc33dea70b062cedc02f952e22c7591ede52"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "d477222cfe231ac39d871ecf0a4ae1ac6128d5ad00678574edb8f984f20dae1f"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "88d8359a6edbdcd440270c20138ccb29869a9dc985d56975c7ae2f6852b2f901"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e8775813abb0b1d5e69d8345a3bdb83174510b5d6a2b943c4818734e00090cc1"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "9d80a460f4d7a575cc077da17e639909d3b67b2900548adfb028c8012ee5f3c6"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "dab0a6ea880f1ccdceaddb08a6b212537e22a38191cc95a2f63344e6f379a941"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
+hash = "5bb8122eac453a973c0315686b3a8f9980714d8a6c4b5ccd3e5a3a6c1489f342"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "2ab4c1719cb9cd0c45e81f694d1431ad2193aa77420aed7f173ac285975e2a62"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
+hash = "ce92488f37c9356a0160bcde8a3384a5c30b25ec98b1faeac0b4d38c7b640fd6"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "429f5598617276c19b7e310ec1f3a78e37f92ca6a6899eb412a40d1177a95f29"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "5fa26bab666db3335d38e9539ba5fcd816a8c7defbf1f220981305b92f4d27f6"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "319a72ce7bbd048d02a9288e87b4d99ac0b3aa2082098ad711c32ca16b6940fc"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "1a03c4c8e8cdaf08acc52610cd716111880a85c18ac3d447e1699a0db2fd94ba"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "68f95c31e556e65a0c0cf9dc140893cb3471dc034cc049789162c840e943ea5d"
+metafile = true
+
+[[files]]
+file = "mods/little-joys.pw.toml"
+hash = "e840383c2c961fc309b0c0333e5680786b02d8f91b0039c456048242ec73c21a"
+metafile = true
+
+[[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "73fc17d4b0f3415b8c39c87f32a01b894d7ff2bbd12387a9359ffd3e7a9493b9"
+metafile = true
+
+[[files]]
+file = "mods/luckperms-placeholders.pw.toml"
+hash = "9396c98d92c8e977977c113979b7cf45c33328b4d15049ed17421b8c323279b1"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "1ba38caed3f7aa06e462bdbc0405d67bd19cdefafe0a00458a80915a7fcbf46e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "2e8b6c5d2aee45bd431190a81fb762fa8ebfde340611bc4471adc58068e27984"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "88431449fab39745bfe2c1bf7e86c177ea11fce241aec3e2411eb2b4db7ac49b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "a602f5aff405e4fefa53353c8b9896c4f706fe6a9e1ffb8f4bddc7dad9f8408d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "71b741ec3ff1b2c98780a7a3a5eb2a509b38f8763494dba3742e75a1634ebd47"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "78609db2df7197faa5e253fd16a726fe9947bd85f0fed1e22f3c9ebc36da5e77"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "a4e7ca278c7055efb2bbb1c03f9f4398fca579e2b4c6197738351e7d4820bd79"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "347f3e885eeafe50a4824c21dd211ccc2198f55d0e93ec0118c4b0b6ca065d71"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "1e351be3ac26846f922568c1a447d0a6afecad3979bd796cff41de011178e1ec"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "414f5eb73bb7b7faeae83de94e7ce3ae944374a3571201e37730edcbc2a3d6b3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "42f62c31d0859e42f225cf558a0fac63796d84a67e58dbf0e4784c604cab8d2b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "63c9a07dddc709c0cf6e35dc6705456e93309ec178ccc56f9aff50823a100669"
+metafile = true
+
+[[files]]
+file = "mods/minescript.pw.toml"
+hash = "969396c3e112b17ebd2a2cdd890b5a03ca46893565c5cbaadcff9c242c49b192"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b6ed30a93f4ece46de3296e4232ca65cbfbb1e457463df0369a8035723f0ae0a"
+metafile = true
+
+[[files]]
+file = "mods/more-delight-fabric.pw.toml"
+hash = "e69e3c923b09433e75a01ec5aed1ab499c6ce608100dac78ab4ce1bbc2b4846e"
+metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+hash = "66ee79405d86109611a76f599037b9c3d92ac9f60e3652aee2b1863fdb169e7d"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "0c3e67242799f8dca62ba5bba5556d72d13d6247c4092eab28a0a0be5b93fdff"
+metafile = true
+
+[[files]]
+file = "mods/naturally-trimmed.pw.toml"
+hash = "3be1fee32179eaaa93c66f382c34b21fd8e90eeb82009bf7048ee90a65f99ec1"
+metafile = true
+
+[[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "c380081c42e1af92db4c44b820912931b52cccd2fde3d38ebb7fce122f67c5b7"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "e9ac614b0f97282de2ce2e9e84a065ce8733cbf21543a410de4972f7f9a88afc"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "ae806e7ab54c4fe2fb8d1408bac7730c895451ea0bcbe2a0920a5cce4ef194ba"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "85c0ed8ace510b8bb063d8a605763a3e0b0a9c2e44b280fe966aaf7f72dbbbae"
+metafile = true
+
+[[files]]
+file = "mods/reframed.pw.toml"
+hash = "2f0f04432fb4e38cb225afe6076223928597116f4f87b349edabbb18982b9967"
+metafile = true
+
+[[files]]
+file = "mods/reintegrated-arts-and-crafts.pw.toml"
+hash = "6725f0c06f2db7771e0cc4006a52c6785f1088154aaec32e0c390e9416d4a701"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "0dea37c3e6ba7c453cf82fbddd2079b33daa026aff947ce90d1e9a4e847b0317"
+metafile = true
+
+[[files]]
+file = "mods/sawmill.pw.toml"
+hash = "5c3e09c9f832d4d3cb1c1d6572b188af13b87be0c921d7c302f1ab49d9e5d48d"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "84dd384bc4165a83da685991223bd10063c0c31d7be558287ec60f8bc40a1f59"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "26603da9af0f32a97539fde5bfb43bc8ebd420426d4ae9be21ccb63e696d3d40"
+metafile = true
+
+[[files]]
+file = "mods/sit-fabric.pw.toml"
+hash = "c668d729f316cf8f073f5371afa4e6c18a685ae7c1ee37e59146a74be723e959"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f73a48751e13380b87296e5b9627c9f6669efda386bd646fd5c499b344570f46"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "986f5951bd0caf0b493811276d078e57fa6015245efd43b9229cc0c387b4059f"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "503a13fb7a8188f8434a82df32c16644cba3d0f25e31da88626acc52af03da41"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "43bac22babaf3cb4547be16f59f3714ae379984a955634332eea60a5fc2c7ecb"
+metafile = true
+
+[[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "53b06bcedaa8d34098b592414ca4cf67e251882657ba4e3f900857cdfe0e3fde"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "befd654249edcbfcbe1f331dfea15c174715743ad5dd65412a008c5180b4a821"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "e0838a8e0bffb1e49df34cbeb10c34ee682a4e488c3e015c6c9f298e3cad4b63"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "a767e7d43fcc6eaf0ad8c94f793ac1051d545da3d0fb0fe8fb2dab2c9b16ee32"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "f12e69b576da03cd12b57007ba05000497c0a87966b1816d2c425db4e67c0b6f"
+metafile = true
+
+[[files]]
+file = "mods/tba-lite-stubs-0.1.0.jar"
+hash = "b600b1ed00eb17a35da2b204b2b560955c60e4ddf77c49015ed61155577f3699"
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "c5f9a9bd67e781b3a7fd1d567603c3dfe15fe48ef35999a9c303f5795be6eaca"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "286be3eeb886c5e2e9eaa0a1860aab882f27f9cd1779811bb067f48fb4266ea0"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "ec360172eeb6536b4e784a364c8aa5bd050a3cf053279b361107e5ebf9a03f68"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "0823b196431b0e01cb0bbf1ebbf7a88fd7384eb1dcf99cc759930421663131fa"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "7b5e8074a47ad6a9e453a29853bb1527906ae0ced0d714fcd386c75ef1f0f00a"
+metafile = true
+
+[[files]]
+file = "mods/underlay.pw.toml"
+hash = "7c765697ee5a024835b0e85c8e158eb4368254e562aa0b414e0c0e6de48148fa"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "2c27095d101e6132452c7e229b7705e7709e1cc0c197fea9c4e384560ec01ae9"
+metafile = true
+
+[[files]]
+file = "mods/verdantvibes-unofficial-port.pw.toml"
+hash = "1b3e57f0cef29eed2e30434718929ecfb99d6354e19e439f8e29e25dd4e09f29"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "ed28419375d935f70281417f06cac8619843daaee939953962f51946be2c123a"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "7b078a56966f45ea39afc4e70155ea5916b182c6616e46045db6249f28989fa8"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "a16596b132b0dd04c2952c35afb5432920ca398d4e87b5fb1acf8fd100866269"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "ae4c442f0049d0af3abbe851d1b51126c43e614cb97636c9958036b910b619c9"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "0528731743be7df4ba5a8952264861920f90475ed333f914fddea75473cd6012"
+metafile = true
+
+[[files]]
+file = "mods/windchime-unofficial-continued.pw.toml"
+hash = "56f15b8ddee5aa54b98203fa5f46df2d81dea74d9e917a81066234d66c5c1a25"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "5b3d17e43a7ca6e877bad85b838a8c38f42d8c3922e305b7d88c723a0e573a48"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3b155e518e4492084de096985b0a7b1642a20a5253ac943c6bb3f6e34daa70fe"
+
+[[files]]
+file = "shaderpacks/BSL_v10.0.zip"
+hash = "b6e79a4f5746bd0b2bd8d54bb4c430539e7e747e8679ac985bc07368422e4e09"
+
+[[files]]
+file = "shaderpacks/Solas_Shader_v3.1c.zip"
+hash = "188d2b058210d3e4df1f98c770df3d7022fba930f7c0cfc6ca4490efb0bc2f88"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/checksums/checksums.lock"
+hash = "c8b6da9af72f74915a44bbe8073bec22df5a675d75fca18b849a0bb075779e76"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/checksums/md5-checksums.bin"
+hash = "3b90cb3f68e8460025d34673b2cb5420b893ba04431eda2d480df0768e0b850d"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/checksums/sha1-checksums.bin"
+hash = "6aa13bcf8a21c761bd8a13a3618137cb1a4e915b14b4dfedec87d4b4e91c7d82"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/executionHistory/executionHistory.bin"
+hash = "3b1867969d045ff53fd612ce1c92ddc4020218ea81135bd7c69d3ffda14ecfd6"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/executionHistory/executionHistory.lock"
+hash = "dd4ca61f04877f1b7b8bab995a1026e5f639c1c97b8490792e41b6761504a4fe"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/fileChanges/last-build.bin"
+hash = "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/fileHashes/fileHashes.bin"
+hash = "d199cc2d8d377f16fe45a67d76cf1463576736ccd0776477890a5b89a4f95315"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/fileHashes/fileHashes.lock"
+hash = "49510ff61bc4335935d052f09dd7ed3f9830a02f48147ceaa811d4e4d4a68fc0"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/fileHashes/resourceHashesCache.bin"
+hash = "be5937001a48647b86b86b6df9157c42c7fb2826f450965df4d53fadb2fc5bd9"
+
+[[files]]
+file = "stubs/.gradle/8.11.1/gc.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "stubs/.gradle/buildOutputCleanup/buildOutputCleanup.lock"
+hash = "8798f892923250aeaf05773089fcb3c1d231c3f81bae70f5e08bb9952d3f3b2a"
+
+[[files]]
+file = "stubs/.gradle/buildOutputCleanup/cache.properties"
+hash = "5cd72797a833202fbaa33d17133c6016e97de9ac3a30143b4b5730b908697c51"
+
+[[files]]
+file = "stubs/.gradle/buildOutputCleanup/outputFiles.bin"
+hash = "7635277ab008da71e657f927deace46759cde840fc37a912aa7755d90e162381"
+
+[[files]]
+file = "stubs/.gradle/file-system.probe"
+hash = "6b89db7f1735c41c6001e6301f1dd1c719099440a16f7ede76a3837dd5438449"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-8bc85877dd/1.21.1-loom.mappings.1_21_1.layered+hash.2198-v2/minecraft-merged-8bc85877dd-1.21.1-loom.mappings.1_21_1.layered+hash.2198-v2.jar"
+hash = "3192f4fca8b01aa938449651cd5aa9085866b5db0ef596587b12bfb36a4668cc"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-8bc85877dd/1.21.1-loom.mappings.1_21_1.layered+hash.2198-v2/minecraft-merged-8bc85877dd-1.21.1-loom.mappings.1_21_1.layered+hash.2198-v2.jar.backup"
+hash = "3192f4fca8b01aa938449651cd5aa9085866b5db0ef596587b12bfb36a4668cc"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-8bc85877dd/1.21.1-loom.mappings.1_21_1.layered+hash.2198-v2/minecraft-merged-8bc85877dd-1.21.1-loom.mappings.1_21_1.layered+hash.2198-v2.pom"
+hash = "bf21a60d406a67692914104cf16d5b203eff36735cb827f74f05f3c98e65bacb"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-api-base/0.4.42+6573ed8c19/fabric-api-base-0.4.42+6573ed8c19-sources.jar"
+hash = "33d7fed33862499f1c83be0bd1194bac0f0f578a185f937b73861acc8e5293be"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-api-base/0.4.42+6573ed8c19/fabric-api-base-0.4.42+6573ed8c19.jar"
+hash = "86adadae3dfb2ba6beca997bbdc94c46572164866f02e6bbd457dada59a5d2ab"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-api-base/0.4.42+6573ed8c19/fabric-api-base-0.4.42+6573ed8c19.pom"
+hash = "9a1c43eac8a80dfb1e34e90120e545a3ed82bc7ce10a992fdbb189d8e9d2a218"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-api-lookup-api-v1/1.6.71+b559734419/fabric-api-lookup-api-v1-1.6.71+b559734419-sources.jar"
+hash = "4bf8405ba60cd759822901dd39d7ecc191fda394c94f80fa87a5926a98f3c696"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-api-lookup-api-v1/1.6.71+b559734419/fabric-api-lookup-api-v1-1.6.71+b559734419.jar"
+hash = "371e68b3031014926707aa60c688e0841a37287ba5866980d6f06975f76963eb"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-api-lookup-api-v1/1.6.71+b559734419/fabric-api-lookup-api-v1-1.6.71+b559734419.pom"
+hash = "02c966f3d79a97da2c340424fbb506199bee7b699a349b1183e852fc76cf15c2"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-api/0.116.7+1.21.1/fabric-api-0.116.7+1.21.1-sources.jar"
+hash = "14823710eb55d53b7a84c8df74bfa2ae657df568fd030837687608234e2d427b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-api/0.116.7+1.21.1/fabric-api-0.116.7+1.21.1.jar"
+hash = "c4fe7c058ad73fb7e09e242a3ac927da270b773567e1a57d70ac531364238f7b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-api/0.116.7+1.21.1/fabric-api-0.116.7+1.21.1.pom"
+hash = "327a0abd50b7d0432ae76e8ad4fc5a16f5feeb52a36065dedd4aef8f9684112e"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-biome-api-v1/13.0.31+d527f9fd19/fabric-biome-api-v1-13.0.31+d527f9fd19-sources.jar"
+hash = "132a21f83fce42bc6058ead86727b76a5ee68d00c33c5ac9f471f7645c8ebf06"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-biome-api-v1/13.0.31+d527f9fd19/fabric-biome-api-v1-13.0.31+d527f9fd19.jar"
+hash = "7f8b710133a6addfa2df2904a9e1d91d7a147ea38da6f14ef71a014c6ed9e457"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-biome-api-v1/13.0.31+d527f9fd19/fabric-biome-api-v1-13.0.31+d527f9fd19.pom"
+hash = "b2faa6d75eb449d6f7fe4a9f2cd2fc2f469186315475d95115f642e0374943c5"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-block-api-v1/1.1.0+0bc3503219/fabric-block-api-v1-1.1.0+0bc3503219-sources.jar"
+hash = "bca32829d3569151d25a9824a8fcc42100427cf63a801433bd87d897e372d0e0"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-block-api-v1/1.1.0+0bc3503219/fabric-block-api-v1-1.1.0+0bc3503219.jar"
+hash = "82f3cad14aeb6d779f7fe981fcf95e476d84e61030c3acf4e28876e791b75627"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-block-api-v1/1.1.0+0bc3503219/fabric-block-api-v1-1.1.0+0bc3503219.pom"
+hash = "8b1baec59915d00c5f1080c365f2405a96df6cfd3e96b1729b0f197bf1345f24"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-block-view-api-v2/1.0.11+ebb2264e19/fabric-block-view-api-v2-1.0.11+ebb2264e19-sources.jar"
+hash = "878764943835c0df5ad4dd5ed8525cd678334d90420a426b934ef209416c010b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-block-view-api-v2/1.0.11+ebb2264e19/fabric-block-view-api-v2-1.0.11+ebb2264e19.jar"
+hash = "0f1935771b96be7ade04404625695bb8114dd259d7b2295b878cc94c638561e9"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-block-view-api-v2/1.0.11+ebb2264e19/fabric-block-view-api-v2-1.0.11+ebb2264e19.pom"
+hash = "fe8de66b02c60ccf6a62c4e64cd4f5ab7a6d8920e21d79e4858c584348e53bad"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-blockrenderlayer-v1/1.1.52+0af3f5a719/fabric-blockrenderlayer-v1-1.1.52+0af3f5a719-sources.jar"
+hash = "ef53d45aa03a5b8044738ca3a6c9bf8ea684dc9f5201bd093158cae47ffc1f77"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-blockrenderlayer-v1/1.1.52+0af3f5a719/fabric-blockrenderlayer-v1-1.1.52+0af3f5a719.jar"
+hash = "a464e245e4fccf32ee50c38fd22811e1aa1fa5bad2b818fb0c9c65bec20457ff"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-blockrenderlayer-v1/1.1.52+0af3f5a719/fabric-blockrenderlayer-v1-1.1.52+0af3f5a719.pom"
+hash = "f8352989719fdaaa1a7f7a2054d50ae549c87baa9d957e03bebaaf3673857efc"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-client-tags-api-v1/1.1.15+6573ed8c19/fabric-client-tags-api-v1-1.1.15+6573ed8c19-sources.jar"
+hash = "fc94ca86423bebf3cfb3868ef72997a4be11d46ba2ae4632ab78545192ca3616"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-client-tags-api-v1/1.1.15+6573ed8c19/fabric-client-tags-api-v1-1.1.15+6573ed8c19.jar"
+hash = "7f106e78c4cb17d19bc9ccb7e141fd139627a4efc6554515b4a9b58ccf770ad3"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-client-tags-api-v1/1.1.15+6573ed8c19/fabric-client-tags-api-v1-1.1.15+6573ed8c19.pom"
+hash = "1135f68bb28d0e5a89c3a8d0749f525224904378907d6c8ee59d21357f738028"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-command-api-v1/1.2.49+f71b366f19/fabric-command-api-v1-1.2.49+f71b366f19-sources.jar"
+hash = "c4d9f8d63f96ce9878678d0db818af84c4d39b8302e3d5a15aaf024a85c9a746"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-command-api-v1/1.2.49+f71b366f19/fabric-command-api-v1-1.2.49+f71b366f19.jar"
+hash = "8cc6990b5a9e55deb25b234c1c3c751204e038f14736ad4312c1243782f452ce"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-command-api-v1/1.2.49+f71b366f19/fabric-command-api-v1-1.2.49+f71b366f19.pom"
+hash = "d9819107047b07e42ef2bc0ff5d3fbccbaac40f3d54ae8986f09210668303a28"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-command-api-v2/2.2.28+6ced4dd919/fabric-command-api-v2-2.2.28+6ced4dd919-sources.jar"
+hash = "abead062b687f874d286cc62416bb3bbe0fa3efc68bb6636cfd9bf266ae80b52"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-command-api-v2/2.2.28+6ced4dd919/fabric-command-api-v2-2.2.28+6ced4dd919.jar"
+hash = "efb100e66295747c978a6bb03769d232f7fdc469e89a935a1c2fe9354d1fa759"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-command-api-v2/2.2.28+6ced4dd919/fabric-command-api-v2-2.2.28+6ced4dd919.pom"
+hash = "715add4673d1044e5ab16ee0d5dfbadde62086ed9e6840ce6dac0cc4184ebab9"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-commands-v0/0.2.66+df3654b319/fabric-commands-v0-0.2.66+df3654b319-sources.jar"
+hash = "632687eb583392c8e42012a56dc6c2423508164f71f73563c79e3c75956c2526"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-commands-v0/0.2.66+df3654b319/fabric-commands-v0-0.2.66+df3654b319.jar"
+hash = "bbf468769f75494f1ec635e24b9030d388274710d43d51181e2df9e44357d33e"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-commands-v0/0.2.66+df3654b319/fabric-commands-v0-0.2.66+df3654b319.pom"
+hash = "815bb9c6abafbacb1328756a86f36c062af8c820ab50fcbceb39bebda3b962d3"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-content-registries-v0/8.0.19+b559734419/fabric-content-registries-v0-8.0.19+b559734419-sources.jar"
+hash = "97abb52954165211abb9ef741c9e1c411346049015097160be4dded61cf03f14"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-content-registries-v0/8.0.19+b559734419/fabric-content-registries-v0-8.0.19+b559734419.jar"
+hash = "54f6e50625063ceb11cb1160c3991d778994ffdc3bb67e6fc9730d9c5187404e"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-content-registries-v0/8.0.19+b559734419/fabric-content-registries-v0-8.0.19+b559734419.pom"
+hash = "2fce5b119be0e5c1963f04105129b1058e7dc3d35c81fd097734ddad9df5ca4d"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-convention-tags-v1/2.1.5+7f945d5b19/fabric-convention-tags-v1-2.1.5+7f945d5b19-sources.jar"
+hash = "25e5802968957b1d02e9aa8d1120960a7424bb4c1b5dd621404979e5e0f77b1e"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-convention-tags-v1/2.1.5+7f945d5b19/fabric-convention-tags-v1-2.1.5+7f945d5b19.jar"
+hash = "24b76f85b512bf8eb713ec2b045b64bad91f0b012fd45b25952c71c7d5cec657"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-convention-tags-v1/2.1.5+7f945d5b19/fabric-convention-tags-v1-2.1.5+7f945d5b19.pom"
+hash = "10bb1400fc360396a9c2d9f237b34d98a672c74a8e6147131a57c6e8a8282c17"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-convention-tags-v2/2.11.1+a406e79519/fabric-convention-tags-v2-2.11.1+a406e79519-sources.jar"
+hash = "a08c7e6549ce541ecbf7db90d3e9ad4b33d222951943e70665599b5a3c26daaa"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-convention-tags-v2/2.11.1+a406e79519/fabric-convention-tags-v2-2.11.1+a406e79519.jar"
+hash = "aef17fc9f7a5a092dc2d91e41808c7b780192abd72c1ad039c313941b773c835"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-convention-tags-v2/2.11.1+a406e79519/fabric-convention-tags-v2-2.11.1+a406e79519.pom"
+hash = "08d19979dd2438399de5454320c5a940261b17e181965f08182357ccbfc4d08f"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-crash-report-info-v1/0.2.29+0af3f5a719/fabric-crash-report-info-v1-0.2.29+0af3f5a719-sources.jar"
+hash = "ad7773a33fddd7df816b9e61016e94841dca680cd040b4750cb552b19190d258"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-crash-report-info-v1/0.2.29+0af3f5a719/fabric-crash-report-info-v1-0.2.29+0af3f5a719.jar"
+hash = "bbd20df173ee2d65d367590c8828b000cd5128fb7a6ca0e177275a87247e97f6"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-crash-report-info-v1/0.2.29+0af3f5a719/fabric-crash-report-info-v1-0.2.29+0af3f5a719.pom"
+hash = "ee4d6076dc469ed690370153746b2060dc5e8245a651b85f7eef381d4ba89444"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-data-attachment-api-v1/1.4.5+6116a37819/fabric-data-attachment-api-v1-1.4.5+6116a37819-sources.jar"
+hash = "baad70ad9b50aba5a344f3c1bfa818686fa4638cecc60c889127e9b52225edfe"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-data-attachment-api-v1/1.4.5+6116a37819/fabric-data-attachment-api-v1-1.4.5+6116a37819.jar"
+hash = "58f1bfd46c561af89607ca489f8fb7d1b6920ae29b4edc917d83d5767a0d817c"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-data-attachment-api-v1/1.4.5+6116a37819/fabric-data-attachment-api-v1-1.4.5+6116a37819.pom"
+hash = "545f78899a9fa1b24c4ae1f037eeb8bd462c7c84594006a8da5195e48f22801f"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-data-generation-api-v1/20.2.34+37516cd619/fabric-data-generation-api-v1-20.2.34+37516cd619-sources.jar"
+hash = "858976ac684ef8562f4b7e83d4771bfd77474730e057526ca19ce424eee848ce"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-data-generation-api-v1/20.2.34+37516cd619/fabric-data-generation-api-v1-20.2.34+37516cd619.jar"
+hash = "64954044a778b4e3b9bed7c6cb6f5008d07145f763e25004721b2450e00c1b03"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-data-generation-api-v1/20.2.34+37516cd619/fabric-data-generation-api-v1-20.2.34+37516cd619.pom"
+hash = "523a23d02a6f2dde761d3758d9da5743ab2ab4c0f9197c5a2e1b529461cc237e"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-dimensions-v1/4.0.1+65213ef819/fabric-dimensions-v1-4.0.1+65213ef819-sources.jar"
+hash = "e75347d6efe70315eb3ca33c2bd7f1d31bd7a0df3bcb4e0b603f4d48fc50702b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-dimensions-v1/4.0.1+65213ef819/fabric-dimensions-v1-4.0.1+65213ef819.jar"
+hash = "badb236a051e4efbfd8b37964bdd026e73dfd9a941527f3f7542aceba5e33041"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-dimensions-v1/4.0.1+65213ef819/fabric-dimensions-v1-4.0.1+65213ef819.pom"
+hash = "ccbcab8a67668b391f860958af5b4e451f6ff6d853f29965b3a9313cf8264c5e"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-entity-events-v1/1.8.0+2b27e0a419/fabric-entity-events-v1-1.8.0+2b27e0a419-sources.jar"
+hash = "b87ccd46a91c06b1fcdd5655120763356ae74d963f80549170310577cf527840"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-entity-events-v1/1.8.0+2b27e0a419/fabric-entity-events-v1-1.8.0+2b27e0a419.jar"
+hash = "b34dc2ab4c5684bd08d7abbda52e31040f27b88a055e6755192c8727bc0e3847"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-entity-events-v1/1.8.0+2b27e0a419/fabric-entity-events-v1-1.8.0+2b27e0a419.pom"
+hash = "178fe3c6c4f2c2888f48adab0c7044e3283b90ac3e1af60a79c79d6b633a14f9"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-events-interaction-v0/0.7.13+ba9dae0619/fabric-events-interaction-v0-0.7.13+ba9dae0619-sources.jar"
+hash = "b9df19e410f8638656f61e3030f4088605f816fd09dbad62b97525051fd682da"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-events-interaction-v0/0.7.13+ba9dae0619/fabric-events-interaction-v0-0.7.13+ba9dae0619.jar"
+hash = "4d0fd04e0b16f64df68459ef65d6bc4e7715ccdb10f641628f6ccd6a3571ad12"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-events-interaction-v0/0.7.13+ba9dae0619/fabric-events-interaction-v0-0.7.13+ba9dae0619.pom"
+hash = "304a225058fb285274f840bba1e020f57c630eee080c24a8fd8f39215a57f03c"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-game-rule-api-v1/1.0.53+6ced4dd919/fabric-game-rule-api-v1-1.0.53+6ced4dd919-sources.jar"
+hash = "882b0138fd4e7a62ce198890f9318f675a89516b656a3dd0f7d4aa86d08ebae8"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-game-rule-api-v1/1.0.53+6ced4dd919/fabric-game-rule-api-v1-1.0.53+6ced4dd919.jar"
+hash = "2f43a946c56dd67308b632ff3ff22bbad90388d1a4ec11cfe013a6a9fed065ce"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-game-rule-api-v1/1.0.53+6ced4dd919/fabric-game-rule-api-v1-1.0.53+6ced4dd919.pom"
+hash = "fbf4c4d18dd9305e7b7159695d6643bcf9846bfc7573d9be7ec9bcadc4f47b0b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-gametest-api-v1/2.0.5+6fc22b9919/fabric-gametest-api-v1-2.0.5+6fc22b9919-sources.jar"
+hash = "eddc8c1ccdf9f071bc0266c446b3db51c33ebe67af976d1ada45fc6b48cb3425"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-gametest-api-v1/2.0.5+6fc22b9919/fabric-gametest-api-v1-2.0.5+6fc22b9919.jar"
+hash = "1acac9a630c4651034972dc383cbab8d7d25454b300d8350e21109f2529f5f39"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-gametest-api-v1/2.0.5+6fc22b9919/fabric-gametest-api-v1-2.0.5+6fc22b9919.pom"
+hash = "8d80f9b0ad68c5b0923ab90b0bc6fe899534a24c80b08222cd39665b0710e08a"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-item-api-v1/11.2.0+3b3cb2e819/fabric-item-api-v1-11.2.0+3b3cb2e819-sources.jar"
+hash = "760684fa5151d9632914a3ed55f3d827904d1909d4c4874420d8af03eff51c30"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-item-api-v1/11.2.0+3b3cb2e819/fabric-item-api-v1-11.2.0+3b3cb2e819.jar"
+hash = "191cb1af10632f432418d91a280276bb94612d1af2ec32953a058c7e20f44735"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-item-api-v1/11.2.0+3b3cb2e819/fabric-item-api-v1-11.2.0+3b3cb2e819.pom"
+hash = "83ebc3c8ee7c52323837b21b6316d89c588785f7e6975da3db687ba06ca8b335"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-item-group-api-v1/4.1.7+def88e3a19/fabric-item-group-api-v1-4.1.7+def88e3a19-sources.jar"
+hash = "696f27a35d0e7c80b480d5cc290c96e17edc90cc8d6ca30a64c46bf16e05350a"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-item-group-api-v1/4.1.7+def88e3a19/fabric-item-group-api-v1-4.1.7+def88e3a19.jar"
+hash = "26f2898edfbb4612f49c92ae8ac4bb3ce8cb8708a5741b3f6ba9407f9e2182e3"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-item-group-api-v1/4.1.7+def88e3a19/fabric-item-group-api-v1-4.1.7+def88e3a19.pom"
+hash = "2b55750e1000bde8dbf515732d1713e4b9ac172db7f4df3952626f7ce442ee41"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-key-binding-api-v1/1.0.47+0af3f5a719/fabric-key-binding-api-v1-1.0.47+0af3f5a719-sources.jar"
+hash = "395c7854eb526e3247e4e956a4c05eef858abc84dd69df2df40689ac286edb3f"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-key-binding-api-v1/1.0.47+0af3f5a719/fabric-key-binding-api-v1-1.0.47+0af3f5a719.jar"
+hash = "5890383aa6a1c561146bb63fe4af42136a647dae5c39fe04e0cabc5889bf579e"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-key-binding-api-v1/1.0.47+0af3f5a719/fabric-key-binding-api-v1-1.0.47+0af3f5a719.pom"
+hash = "bf3ea8c2f3149ab44f402da5eb8a2ee0ac189dd3c5f4ee3a088da036a79cfe6a"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-keybindings-v0/0.2.45+df3654b319/fabric-keybindings-v0-0.2.45+df3654b319-sources.jar"
+hash = "2f1df2b6950ea23140e9e28bb1b17b31db13eca843f81b407bc850c556b50110"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-keybindings-v0/0.2.45+df3654b319/fabric-keybindings-v0-0.2.45+df3654b319.jar"
+hash = "270c99f5f123dad8308eb7c150da26ff438c539f62feebf59e3a17355d4faceb"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-keybindings-v0/0.2.45+df3654b319/fabric-keybindings-v0-0.2.45+df3654b319.pom"
+hash = "b4c7d17b7bb155e505adec24779f0f8dd5f9593cac4076011e9afb360c87d529"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-lifecycle-events-v1/2.6.0+0865547519/fabric-lifecycle-events-v1-2.6.0+0865547519-sources.jar"
+hash = "efdf39d6a85481f434831be59f4a62fbc74a3e84f712d47263d885bd3a5bd9df"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-lifecycle-events-v1/2.6.0+0865547519/fabric-lifecycle-events-v1-2.6.0+0865547519.jar"
+hash = "38522bfdddd188cb96eb75b89315207351e922b9294ebf7266d0ed3cf79bfe6b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-lifecycle-events-v1/2.6.0+0865547519/fabric-lifecycle-events-v1-2.6.0+0865547519.pom"
+hash = "2e2a832dfdb6d6e3b4248f85232167fd1182f70dde5d21d924a832248a1154c5"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-loot-api-v2/3.0.15+3f89f5a519/fabric-loot-api-v2-3.0.15+3f89f5a519-sources.jar"
+hash = "f0243791f5c6f1e43150a34d90808954e033bc6bbc35cb90497a78b326d9396b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-loot-api-v2/3.0.15+3f89f5a519/fabric-loot-api-v2-3.0.15+3f89f5a519.jar"
+hash = "9c2c18aa68b94a0cf5ecb8f432fdc252f44aa93338534bfbdb01d44fbe420301"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-loot-api-v2/3.0.15+3f89f5a519/fabric-loot-api-v2-3.0.15+3f89f5a519.pom"
+hash = "7ded3293ed30733b88f4489632da417a6f1170d4b8fa67a6b6a3531ca431e000"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-loot-api-v3/1.0.3+3f89f5a519/fabric-loot-api-v3-1.0.3+3f89f5a519-sources.jar"
+hash = "68f422595cef1abaac23d11f2acaaac47a560d9eb04b9f771b293cd2995c08bc"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-loot-api-v3/1.0.3+3f89f5a519/fabric-loot-api-v3-1.0.3+3f89f5a519.jar"
+hash = "3fe15b42f5e0fec9baf9bc410f5a3d7e9b9707a32f9d81b478899cd001d0bd3b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-loot-api-v3/1.0.3+3f89f5a519/fabric-loot-api-v3-1.0.3+3f89f5a519.pom"
+hash = "4d933192b6d4f743314beb1a6f025cb77883e5d2c0e52a6eaadd118778e6e9bf"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-message-api-v1/6.0.14+8aaf3aca19/fabric-message-api-v1-6.0.14+8aaf3aca19-sources.jar"
+hash = "0da939c7c0bdb1e36239b8bde4451249f686401373a2d5533c66138481c6534a"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-message-api-v1/6.0.14+8aaf3aca19/fabric-message-api-v1-6.0.14+8aaf3aca19.jar"
+hash = "1d956601e6275e2350167b29558136c60209ec5566fb0b04e71e09a78fd9796a"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-message-api-v1/6.0.14+8aaf3aca19/fabric-message-api-v1-6.0.14+8aaf3aca19.pom"
+hash = "177d25aa292667bd622bf16a2d1ccd4d8b97e84388e7335383caa3ffaa515daf"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-model-loading-api-v1/2.1.0+b4d813fc19/fabric-model-loading-api-v1-2.1.0+b4d813fc19-sources.jar"
+hash = "5ce32d22e94b7dad3a21e23547e267d5df13fe144f436c98b5fa7e3013e34bc5"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-model-loading-api-v1/2.1.0+b4d813fc19/fabric-model-loading-api-v1-2.1.0+b4d813fc19.jar"
+hash = "4b8d03d0ae522c87510c42a26e6900976e03e56784aa4101d1099925192a813d"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-model-loading-api-v1/2.1.0+b4d813fc19/fabric-model-loading-api-v1-2.1.0+b4d813fc19.pom"
+hash = "2762361c1377bf9d3a0d17fa239df04d029f50533cef57fa1ac18d5a40fa9995"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-networking-api-v1/4.3.0+c7469b2119/fabric-networking-api-v1-4.3.0+c7469b2119-sources.jar"
+hash = "2f3a87b57a548f52e121ef4c9f671e97c08e8275e36c480913a3cdb4cd3c57e7"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-networking-api-v1/4.3.0+c7469b2119/fabric-networking-api-v1-4.3.0+c7469b2119.jar"
+hash = "37cde1e9ea46a47dc1a35f07945a244190cab04cfea2bd5c04ef80ef259742c3"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-networking-api-v1/4.3.0+c7469b2119/fabric-networking-api-v1-4.3.0+c7469b2119.pom"
+hash = "b55715db6ffd532f25cc34f476bfc748b9207c85002c43d4b821f2ee86705384"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-object-builder-api-v1/15.2.1+40875a9319/fabric-object-builder-api-v1-15.2.1+40875a9319-sources.jar"
+hash = "56afa6d01e148e1d1aee37b1312cbb97c610d0d2ade42fd52e0b6bd1229b382e"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-object-builder-api-v1/15.2.1+40875a9319/fabric-object-builder-api-v1-15.2.1+40875a9319.jar"
+hash = "ed37a471a2a3eb977ec666d2c7f50f1716bff1bf2d5a2b8b7d1a635ad5b7633d"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-object-builder-api-v1/15.2.1+40875a9319/fabric-object-builder-api-v1-15.2.1+40875a9319.pom"
+hash = "141032df8ca283885dd7c766b078a14e981c43e417f4bb163e039642433ed817"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-particles-v1/4.0.2+6573ed8c19/fabric-particles-v1-4.0.2+6573ed8c19-sources.jar"
+hash = "6d13f7ee6d2321bf71aac52936f1ce471ee7ede38b498230c3d5c8827ea8f484"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-particles-v1/4.0.2+6573ed8c19/fabric-particles-v1-4.0.2+6573ed8c19.jar"
+hash = "da1c2542fef760566a98fa43aef828a5c1eaf3703c1bcff5d17c8b0028dd4bb2"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-particles-v1/4.0.2+6573ed8c19/fabric-particles-v1-4.0.2+6573ed8c19.pom"
+hash = "36755a79ea2ef819caaef24b9a42be16d0b72faaac1524f922db2aba3f1888ab"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-recipe-api-v1/5.0.15+2475392c19/fabric-recipe-api-v1-5.0.15+2475392c19-sources.jar"
+hash = "a57c97662997991e85d81fab7a1a7088f140b201fcfcb2174806a7c1c9530039"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-recipe-api-v1/5.0.15+2475392c19/fabric-recipe-api-v1-5.0.15+2475392c19.jar"
+hash = "95dfd46360f6fc650de8e33c4131ee92a004ec858efa5890c7220d966dd88d58"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-recipe-api-v1/5.0.15+2475392c19/fabric-recipe-api-v1-5.0.15+2475392c19.pom"
+hash = "870dc201360f0813947aed3f43b6fb6494609f3b2efb1fd50f91e92d7cefc603"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-registry-sync-v0/5.3.1+e3eddc2119/fabric-registry-sync-v0-5.3.1+e3eddc2119-sources.jar"
+hash = "dae34061ed8d7458763c6bb38cea5fa4655a4d3a2e3081b2c43c2e80b8d11b66"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-registry-sync-v0/5.3.1+e3eddc2119/fabric-registry-sync-v0-5.3.1+e3eddc2119.jar"
+hash = "aeeae0d3598b576373a7ad6464a2dcc6c1fd99932950e1cfd208dac54580c47b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-registry-sync-v0/5.3.1+e3eddc2119/fabric-registry-sync-v0-5.3.1+e3eddc2119.pom"
+hash = "487e8a657d830e0e5f74da5823a631b3471cb8e0e2ce926dc0606beed4cb167d"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-renderer-api-v1/3.4.1+b4d813fc19/fabric-renderer-api-v1-3.4.1+b4d813fc19-sources.jar"
+hash = "e21729aa43381a10cafdf0b43af079bfc5e46f06929b9139b71e09598246aaac"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-renderer-api-v1/3.4.1+b4d813fc19/fabric-renderer-api-v1-3.4.1+b4d813fc19.jar"
+hash = "cc616f735093d191a2c10333909815c2caca28133aa0601718f769ea2ff02950"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-renderer-api-v1/3.4.1+b4d813fc19/fabric-renderer-api-v1-3.4.1+b4d813fc19.pom"
+hash = "ec8a79f16143064e2769168cd104261114d07f7d74502c44f8f988e8e4e2fda7"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-renderer-indigo/1.7.1+c705a49c19/fabric-renderer-indigo-1.7.1+c705a49c19-sources.jar"
+hash = "d33b1b25d4899507beedb0e75921271d3ccc5b70a38e79c7f6aa719788f5edba"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-renderer-indigo/1.7.1+c705a49c19/fabric-renderer-indigo-1.7.1+c705a49c19.jar"
+hash = "9538ed3dee37dd91822babe68cee63ada619e16b688d77b61f52a74ba1687e78"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-renderer-indigo/1.7.1+c705a49c19/fabric-renderer-indigo-1.7.1+c705a49c19.pom"
+hash = "78ea2fd77294c5eb5d8f9ae54f2a4e1d163eb7c55dd94285d1aaa7f62f8c2b1a"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-renderer-registries-v1/3.2.69+df3654b319/fabric-renderer-registries-v1-3.2.69+df3654b319-sources.jar"
+hash = "323e177c06cfdd05878c7527df9736333a355e72b6ee57711fc4a9d2bf1f277c"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-renderer-registries-v1/3.2.69+df3654b319/fabric-renderer-registries-v1-3.2.69+df3654b319.jar"
+hash = "18932e538c7584c9c5f40ca1e5722f0303f2a4069a8832e8aee4812bd30ea562"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-renderer-registries-v1/3.2.69+df3654b319/fabric-renderer-registries-v1-3.2.69+df3654b319.pom"
+hash = "13e48fafffb941c9fb640b010610287dcf181a30ccd9bcb512d26be9d1469c2a"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-data-attachment-v1/0.3.49+73761d2e19/fabric-rendering-data-attachment-v1-0.3.49+73761d2e19-sources.jar"
+hash = "1271cc791258cb8f55d45111b42cbe22374b153c948cb705e5d1086091d1d3cb"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-data-attachment-v1/0.3.49+73761d2e19/fabric-rendering-data-attachment-v1-0.3.49+73761d2e19.jar"
+hash = "586bfeafc4dfedc8061b18cf7fe1f88e124d31f2d8547b07ba2ee12e5b3dbf42"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-data-attachment-v1/0.3.49+73761d2e19/fabric-rendering-data-attachment-v1-0.3.49+73761d2e19.pom"
+hash = "b05ed094b8a2b56d571121d37a236cc9593dc0aa9ba73e180f5dc5149367aaca"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-fluids-v1/3.1.6+1daea21519/fabric-rendering-fluids-v1-3.1.6+1daea21519-sources.jar"
+hash = "0e5b9dbc800d8d8dfa343c444c214ac72f1073db31671042aa57420084542aac"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-fluids-v1/3.1.6+1daea21519/fabric-rendering-fluids-v1-3.1.6+1daea21519.jar"
+hash = "d9d2d6249172b841ec544ef6f71376579ec0af3bbfc9f3d6a96450a5c39f0e3d"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-fluids-v1/3.1.6+1daea21519/fabric-rendering-fluids-v1-3.1.6+1daea21519.pom"
+hash = "b13f2c83da06f948b40397329ad57bed118b0845b4a71fcfb34f21eb049c2597"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-v0/1.1.72+df3654b319/fabric-rendering-v0-1.1.72+df3654b319-sources.jar"
+hash = "4b584edaa066d93411f1c64078ea110cf4bb07d5ff80d10d1e1f1cef140aa853"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-v0/1.1.72+df3654b319/fabric-rendering-v0-1.1.72+df3654b319.jar"
+hash = "317153aa4ffc0fe2f8f8b03b47e368ebded6517dc94daff2af66009cf75b53a9"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-v0/1.1.72+df3654b319/fabric-rendering-v0-1.1.72+df3654b319.pom"
+hash = "697f34c6a612dcf60cb87510c613051e65cd0426b5e4547e350f95b21f1ed609"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-v1/5.1.0+ab4c25a019/fabric-rendering-v1-5.1.0+ab4c25a019-sources.jar"
+hash = "5d0ad9df9d4490bea2e877950f7f61b4dbacb39db99bdf812ab557c6a50016b8"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-v1/5.1.0+ab4c25a019/fabric-rendering-v1-5.1.0+ab4c25a019.jar"
+hash = "43637d0929bfeafb57d3acb5164106665103123cba0108cb2e37c93889b9424f"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-v1/5.1.0+ab4c25a019/fabric-rendering-v1-5.1.0+ab4c25a019.pom"
+hash = "aca01e77c22abee03272053eef8be0c732dc60334ea5af026fa215976654b957"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1/4.3.0+8dc279b119/fabric-resource-conditions-api-v1-4.3.0+8dc279b119-sources.jar"
+hash = "1e5809eab4af456010299eda7b70f6cc08ab759f03458bf83e2e382036711231"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1/4.3.0+8dc279b119/fabric-resource-conditions-api-v1-4.3.0+8dc279b119.jar"
+hash = "e820c1e019662d63423420279ed0514f44cc823b1be0ee6a5f654c72c2916108"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1/4.3.0+8dc279b119/fabric-resource-conditions-api-v1-4.3.0+8dc279b119.pom"
+hash = "d28c58f58ce06a6e6674b197e5db0dc00763dccddbd4abcad8a87e7f69ee3027"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-resource-loader-v0/1.3.1+5b5275af19/fabric-resource-loader-v0-1.3.1+5b5275af19-sources.jar"
+hash = "bbd09fd208955ef1423b1e086a13048d076045f3e4fd1db76921a1dd82cc5941"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-resource-loader-v0/1.3.1+5b5275af19/fabric-resource-loader-v0-1.3.1+5b5275af19.jar"
+hash = "e0158dae5e55d1c113f4511c24a72ae7f265874d6e8f1e286052dc1772dc9697"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-resource-loader-v0/1.3.1+5b5275af19/fabric-resource-loader-v0-1.3.1+5b5275af19.pom"
+hash = "eadb96f0d2c56dc6cb08c6c86110d2802c5573753456affd9957974177a9ab2e"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-screen-api-v1/2.0.25+8b68f1c719/fabric-screen-api-v1-2.0.25+8b68f1c719-sources.jar"
+hash = "d850cb9121014c2475d3fb1eaa49ae08d5a54d9db7625af60872c27df27581b8"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-screen-api-v1/2.0.25+8b68f1c719/fabric-screen-api-v1-2.0.25+8b68f1c719.jar"
+hash = "2bb53177b6d404e9339ace0dbad8c3fbeb7d45e7df844ddbe4b0e1e08155491b"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-screen-api-v1/2.0.25+8b68f1c719/fabric-screen-api-v1-2.0.25+8b68f1c719.pom"
+hash = "0f91fa41ef3f86d8febb98e74b0c3ff253fd33aabfe51d237b93f103cc6b90d8"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-screen-handler-api-v1/1.3.90+b559734419/fabric-screen-handler-api-v1-1.3.90+b559734419-sources.jar"
+hash = "bce850615f97912890e887fafd3a153fbd4ba525506e4c00abde5e794f0efcf5"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-screen-handler-api-v1/1.3.90+b559734419/fabric-screen-handler-api-v1-1.3.90+b559734419.jar"
+hash = "5a0311cbfc2b4f45b77f29fb6be76aafea9f399e202e13eb24fb6eda92d176db"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-screen-handler-api-v1/1.3.90+b559734419/fabric-screen-handler-api-v1-1.3.90+b559734419.pom"
+hash = "f4b954a82414471c8a5bdf6a459193c69ce6e6bcac768afe2376f2d2e9bd5eb8"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-sound-api-v1/1.0.23+6573ed8c19/fabric-sound-api-v1-1.0.23+6573ed8c19-sources.jar"
+hash = "c9cf9a55b2c7215ce14ec94e5dff61fb1f74762bf81c88dae885d513e16a17f4"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-sound-api-v1/1.0.23+6573ed8c19/fabric-sound-api-v1-1.0.23+6573ed8c19.jar"
+hash = "cca7754b10762f0f1be24b3715599e9609fda850876eb6be9ba6e28313051268"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-sound-api-v1/1.0.23+6573ed8c19/fabric-sound-api-v1-1.0.23+6573ed8c19.pom"
+hash = "86fb7027559bca7ce39f0eeb788b880cae5f5c5a3bfef2042f4aeac1fc292eef"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-transfer-api-v1/5.4.3+c24bd99419/fabric-transfer-api-v1-5.4.3+c24bd99419-sources.jar"
+hash = "d0451f55217ff4a775c419ba952e5a1b80b8bfae3cd3db7c5c90eb4ed829e5f9"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-transfer-api-v1/5.4.3+c24bd99419/fabric-transfer-api-v1-5.4.3+c24bd99419.jar"
+hash = "e6cc0c7b4b68afcf5c2b3a522c7fb4774631fafe905018524b72af5a36c7e7ce"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-transfer-api-v1/5.4.3+c24bd99419/fabric-transfer-api-v1-5.4.3+c24bd99419.pom"
+hash = "175f2b6efe402f74a1dcb00bc9a52302bb3be21fd68b748142b504c69f340ab0"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1/6.2.0+45b9699719/fabric-transitive-access-wideners-v1-6.2.0+45b9699719-sources.jar"
+hash = "84a46b67e0fbf90c5b88c7d7df1d43dfd61cf64194bde3099bd8225af2e632e0"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1/6.2.0+45b9699719/fabric-transitive-access-wideners-v1-6.2.0+45b9699719.jar"
+hash = "e717d28f9961e488c1b0e3ffe2c7f3a72b4962c3f10ba541b4fe04e95adf1fb8"
+
+[[files]]
+file = "stubs/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_1_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1/6.2.0+45b9699719/fabric-transitive-access-wideners-v1-6.2.0+45b9699719.pom"
+hash = "0c1b5f4ad153965270fb421bb8ec887ce0f5dead58f8517701361864d680c5de"
+
+[[files]]
+file = "stubs/.gradle/vcs-1/gc.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "stubs/build.gradle"
+hash = "2d67fb84b76dcaa9784b7c596570ef021a29a5661a6c9be2c43a61a709b0a54e"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/TbaLiteStubs.class"
+hash = "c4bba158cc4e3767dae28153ba4c85915f5da490cff1c68f64af74eff3fc915a"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/TbaLiteStubsClient.class"
+hash = "933459e59680ba253ef4c704c345f8b14eaedcc1596ec3ad3ea0e4ce9adc31a6"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/block/DisplayAppearance.class"
+hash = "78475a3e416e2594301ae7fa3d6dced767d5862be7d78f2022f2bb297a87bf8a"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/block/StubDisplayBlock.class"
+hash = "8b9558649fae156e8751019b5661ecb375d9ffea61c23637eb7f6655c0c62423"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/block/StubDisplayBlockEntity.class"
+hash = "7da3f0c3c43ac4f16e34742242cafe53eb302acf5b0e291af9c59918e0facf17"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/block/StubDisplayBlockRegistration.class"
+hash = "c6adf8e759d5aae3c3cc9991d35f2200323bffb7ffc4f435bbb1ea9a16d06bab"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$GuiType.class"
+hash = "1a19d5d676c16936f515b13391819012086f7ea7f57629b2b5158651e1235dc4"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$NotificationPayload.class"
+hash = "2836d1ce9928984bdaea73fee7dca18fc2a70cb4f6a1c0bffcd6289a90566cd2"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$NotificationType.class"
+hash = "98970a4a2ad8b45941e84c52986b297e1c91e55d3e8e7c480dc3afab5363b61b"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$OpenGuiPayload.class"
+hash = "db26966e33e1035906664a368e5dd133417ace3bb42c23d5d4b885d8078d75ff"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$RecognitionsPayload$RecognitionData.class"
+hash = "b1c74e0cc339e68c6775622d49df8d78c3c6c3781d28970ff4cea7bc1922d0e0"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$RecognitionsPayload$TitleProgressData.class"
+hash = "b411dcd1b1d2207ae72b8f8a617c4e64080811edca6ccb0924cbe2295c93fbbb"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$RecognitionsPayload.class"
+hash = "1f146460d4634b407e2dcbbad20c6295f382984bed9413acb8856d8b3a623c07"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$SubmissionsPayload$SubmissionData.class"
+hash = "e3ba46b89a640617c29f538085dda118e6ca08cc7192517331450d71b3ecc594"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$SubmissionsPayload.class"
+hash = "7c42eeec7ae5285eb21722f9452a215f204ae918b56ec707449a4db5ce635d6b"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$SubmitBuildPayload.class"
+hash = "4b03cad7c076de62f21dd8b7836424c8c092292ab561c89fe8cda880da9fcc6a"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$TitleSyncPayload$TitleData.class"
+hash = "b10de310ada25d9286efe1401daa0a5a0e8bbfb9fc5f767fe8bfcdeef903b027"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads$TitleSyncPayload.class"
+hash = "fadf26975143f957a8b48091a0f99e0bb12996f70c913ce13ed44447051c6811"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/CoreCurriculumPayloads.class"
+hash = "ee8ba3930d91cceae53d80c08c053716b36463227d5f1ace08844897f8e05e28"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SceneCraftPayloads$ExportCompleteC2S.class"
+hash = "87c4afbec243f9e82bca8cb5c26aafa912836e5c73012b5938ea1ec8c2c08b7e"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SceneCraftPayloads$ExportPermissionS2C.class"
+hash = "3bb2b204ec5566514140e534cce9fc880353a000b932976d5447c467a9ec1c0a"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SceneCraftPayloads$ExportRequestC2S.class"
+hash = "eebba1cf73d3f9eddc22245ba0150a0ada7b7c77480342d7741ba6032bdb472f"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SceneCraftPayloads$HandshakeC2S.class"
+hash = "2bfdf746e56c833d1b6ef3c98a596b9b1d8141f14163fbcb875600351cc91a40"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SceneCraftPayloads$HandshakeResponseS2C.class"
+hash = "13a45490909e5a61e3db20310b0579ad906a030575fe688aca20247114d6ef31"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SceneCraftPayloads$ReportSessionsAckS2C.class"
+hash = "367440746573bc40a4f875edce429c4685df72a9c4a0433d8f688418c61c0c8a"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SceneCraftPayloads$ReportSessionsC2S.class"
+hash = "8a6fe3326271b3017cd22ff4ef5cbd8a07e163f2762356e66710c744e4686cab"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SceneCraftPayloads.class"
+hash = "0b2de25447300721f4c29e37090e8c7c5c7a353aaa7ad75948bced07057888f1"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads$DisplayAppearanceC2S.class"
+hash = "953b7b33caf210d77dd2c7d89d2745494257539bf72d257106868d61b7a2000e"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads$DisplayStreamingC2S.class"
+hash = "4f0bbac4e08b7a2e40e2342aa02bcc8a80d9242fc79424335ed8ca61a8ca85da"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads$HandshakeC2S.class"
+hash = "4a5b52c1b9eae8aad65667a7ef075d7450f385bde5d111aace75943a00a819d7"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads$HandshakeResponseS2C.class"
+hash = "f9a8f42bbe6cfb7a505503040b8fe27163934914a7ebfb006f864093488425eb"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads$RequestTokenC2S.class"
+hash = "8a03df663dfedf52a1137686037939085d06fd16bbb1aba6ab6cd1aed4484302"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads$StreamUpdateC2S.class"
+hash = "8198136ecd4598141016d1522fed3e70794e936d6f48fc28050877fd74401b95"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads$TokenResponseS2C.class"
+hash = "1b96b19d53a182299b6d987de8ad04b145751cafdd5f26871202c5d85f2c2cf6"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads$ViewersS2C.class"
+hash = "1a74bda1b81c7b8d9c2675db837f2c6265d527f74151a90939dd7e5ed47f4d3b"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads$VisibilityS2C.class"
+hash = "4b332120b7fcc53d206a458d598a7675802ad04cf0be9374df64b37010822314"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/StreamCraftPayloads.class"
+hash = "5673470448878f00eb31386688d49526824d02ca7eb6d5ee38996c265a5d1272"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$BroadcastQueueUpdateS2C.class"
+hash = "a319d015a241ea6488b66bdedf3f867b84fab87b4dd0c11ccb396a690a58b948"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$BroadcastRequestC2S.class"
+hash = "1b31e29ec70668d6c5c04b7fb8646905fed9ecfde265ecd825afb0755e702b6a"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$BroadcastStartS2C.class"
+hash = "611f0dbfe02b16917e87c720d3381b47135571cb78cd513f43f8147807a6eeed"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$BroadcastStopS2C.class"
+hash = "1b33474b9a75f700ed6c56d8d00ac50b925d98cd4cd49eb2d10a055f3b3b4e46"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$GenerateRequestC2S.class"
+hash = "13a2254e42accfd5e61befd7cea619784d023bbc501ba28d2699759f97551281"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$GenerationCompleteS2C.class"
+hash = "90358fcb464e4a362471afe8918ad0469d3e1ee4be4deddb2304e9c2eeabb62a"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$GenerationStatusS2C.class"
+hash = "d559daa0ae072f6021e27477bcd0ccad977d3311e1552eb17fa2cf908912ce9b"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$HandshakeC2S.class"
+hash = "2b64f1f5098a0aebf6d7b662362333a1519cacba49ab347fdfead78a1aad3dc8"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$HandshakeResponseS2C.class"
+hash = "7cfb0a58a5e233ce1e7bf7903f4ec03561bc89215ca2a754924379e7a831c645"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$NowPlayingS2C.class"
+hash = "191b305746b3eeac4ba9897b53fe1546bc0e570e92845bed1859693c31c9e575"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$PlaybackActionC2S.class"
+hash = "208a704036b083e77ecd530df3b155db5420f03e08cd65729ab499bef0d9cf41"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads$VanillaMusicControlS2C.class"
+hash = "b2ed4532f09da0f31f05b576f425af1ea474d0ba1ef21b02933ece41727622e8"
+
+[[files]]
+file = "stubs/build/classes/java/main/com/tba/lite/stubs/network/SynthCraftPayloads.class"
+hash = "556ae3437b73d7cdff19fadfb888055aeead3f1f6a7b5feb7b73f77a4d2de2fb"
+
+[[files]]
+file = "stubs/build/devlibs/tba-lite-stubs-0.1.0-dev.jar"
+hash = "ac5cdcbb1b8905f0c11850d468aa348e8ab988753354c71ea9891266bc1047bb"
+
+[[files]]
+file = "stubs/build/libs/tba-lite-stubs-0.1.0.jar"
+hash = "b600b1ed00eb17a35da2b204b2b560955c60e4ddf77c49015ed61155577f3699"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-api-0.116.7+1.21.1-sources.jar"
+hash = "14823710eb55d53b7a84c8df74bfa2ae657df568fd030837687608234e2d427b"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-api-0.116.7+1.21.1.jar"
+hash = "c4fe7c058ad73fb7e09e242a3ac927da270b773567e1a57d70ac531364238f7b"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-api-base-0.4.42+6573ed8c19-sources.jar"
+hash = "33d7fed33862499f1c83be0bd1194bac0f0f578a185f937b73861acc8e5293be"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-api-base-0.4.42+6573ed8c19.jar"
+hash = "86adadae3dfb2ba6beca997bbdc94c46572164866f02e6bbd457dada59a5d2ab"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-api-lookup-api-v1-1.6.71+b559734419-sources.jar"
+hash = "4bf8405ba60cd759822901dd39d7ecc191fda394c94f80fa87a5926a98f3c696"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-api-lookup-api-v1-1.6.71+b559734419.jar"
+hash = "371e68b3031014926707aa60c688e0841a37287ba5866980d6f06975f76963eb"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-biome-api-v1-13.0.31+d527f9fd19-sources.jar"
+hash = "132a21f83fce42bc6058ead86727b76a5ee68d00c33c5ac9f471f7645c8ebf06"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-biome-api-v1-13.0.31+d527f9fd19.jar"
+hash = "7f8b710133a6addfa2df2904a9e1d91d7a147ea38da6f14ef71a014c6ed9e457"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-block-api-v1-1.1.0+0bc3503219-sources.jar"
+hash = "bca32829d3569151d25a9824a8fcc42100427cf63a801433bd87d897e372d0e0"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-block-api-v1-1.1.0+0bc3503219.jar"
+hash = "82f3cad14aeb6d779f7fe981fcf95e476d84e61030c3acf4e28876e791b75627"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-block-view-api-v2-1.0.11+ebb2264e19-sources.jar"
+hash = "878764943835c0df5ad4dd5ed8525cd678334d90420a426b934ef209416c010b"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-block-view-api-v2-1.0.11+ebb2264e19.jar"
+hash = "0f1935771b96be7ade04404625695bb8114dd259d7b2295b878cc94c638561e9"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-blockrenderlayer-v1-1.1.52+0af3f5a719-sources.jar"
+hash = "ef53d45aa03a5b8044738ca3a6c9bf8ea684dc9f5201bd093158cae47ffc1f77"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-blockrenderlayer-v1-1.1.52+0af3f5a719.jar"
+hash = "a464e245e4fccf32ee50c38fd22811e1aa1fa5bad2b818fb0c9c65bec20457ff"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-client-tags-api-v1-1.1.15+6573ed8c19-sources.jar"
+hash = "fc94ca86423bebf3cfb3868ef72997a4be11d46ba2ae4632ab78545192ca3616"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-client-tags-api-v1-1.1.15+6573ed8c19.jar"
+hash = "7f106e78c4cb17d19bc9ccb7e141fd139627a4efc6554515b4a9b58ccf770ad3"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-command-api-v1-1.2.49+f71b366f19-sources.jar"
+hash = "c4d9f8d63f96ce9878678d0db818af84c4d39b8302e3d5a15aaf024a85c9a746"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-command-api-v1-1.2.49+f71b366f19.jar"
+hash = "8cc6990b5a9e55deb25b234c1c3c751204e038f14736ad4312c1243782f452ce"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-command-api-v2-2.2.28+6ced4dd919-sources.jar"
+hash = "abead062b687f874d286cc62416bb3bbe0fa3efc68bb6636cfd9bf266ae80b52"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-command-api-v2-2.2.28+6ced4dd919.jar"
+hash = "efb100e66295747c978a6bb03769d232f7fdc469e89a935a1c2fe9354d1fa759"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-commands-v0-0.2.66+df3654b319-sources.jar"
+hash = "632687eb583392c8e42012a56dc6c2423508164f71f73563c79e3c75956c2526"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-commands-v0-0.2.66+df3654b319.jar"
+hash = "bbf468769f75494f1ec635e24b9030d388274710d43d51181e2df9e44357d33e"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-content-registries-v0-8.0.19+b559734419-sources.jar"
+hash = "97abb52954165211abb9ef741c9e1c411346049015097160be4dded61cf03f14"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-content-registries-v0-8.0.19+b559734419.jar"
+hash = "54f6e50625063ceb11cb1160c3991d778994ffdc3bb67e6fc9730d9c5187404e"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-convention-tags-v1-2.1.5+7f945d5b19-sources.jar"
+hash = "25e5802968957b1d02e9aa8d1120960a7424bb4c1b5dd621404979e5e0f77b1e"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-convention-tags-v1-2.1.5+7f945d5b19.jar"
+hash = "24b76f85b512bf8eb713ec2b045b64bad91f0b012fd45b25952c71c7d5cec657"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-convention-tags-v2-2.11.1+a406e79519-sources.jar"
+hash = "a08c7e6549ce541ecbf7db90d3e9ad4b33d222951943e70665599b5a3c26daaa"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-convention-tags-v2-2.11.1+a406e79519.jar"
+hash = "aef17fc9f7a5a092dc2d91e41808c7b780192abd72c1ad039c313941b773c835"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-crash-report-info-v1-0.2.29+0af3f5a719-sources.jar"
+hash = "ad7773a33fddd7df816b9e61016e94841dca680cd040b4750cb552b19190d258"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-crash-report-info-v1-0.2.29+0af3f5a719.jar"
+hash = "bbd20df173ee2d65d367590c8828b000cd5128fb7a6ca0e177275a87247e97f6"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-data-attachment-api-v1-1.4.5+6116a37819-sources.jar"
+hash = "baad70ad9b50aba5a344f3c1bfa818686fa4638cecc60c889127e9b52225edfe"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-data-attachment-api-v1-1.4.5+6116a37819.jar"
+hash = "58f1bfd46c561af89607ca489f8fb7d1b6920ae29b4edc917d83d5767a0d817c"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-data-generation-api-v1-20.2.34+37516cd619-sources.jar"
+hash = "858976ac684ef8562f4b7e83d4771bfd77474730e057526ca19ce424eee848ce"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-data-generation-api-v1-20.2.34+37516cd619.jar"
+hash = "64954044a778b4e3b9bed7c6cb6f5008d07145f763e25004721b2450e00c1b03"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-dimensions-v1-4.0.1+65213ef819-sources.jar"
+hash = "e75347d6efe70315eb3ca33c2bd7f1d31bd7a0df3bcb4e0b603f4d48fc50702b"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-dimensions-v1-4.0.1+65213ef819.jar"
+hash = "badb236a051e4efbfd8b37964bdd026e73dfd9a941527f3f7542aceba5e33041"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-entity-events-v1-1.8.0+2b27e0a419-sources.jar"
+hash = "b87ccd46a91c06b1fcdd5655120763356ae74d963f80549170310577cf527840"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-entity-events-v1-1.8.0+2b27e0a419.jar"
+hash = "b34dc2ab4c5684bd08d7abbda52e31040f27b88a055e6755192c8727bc0e3847"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-events-interaction-v0-0.7.13+ba9dae0619-sources.jar"
+hash = "b9df19e410f8638656f61e3030f4088605f816fd09dbad62b97525051fd682da"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-events-interaction-v0-0.7.13+ba9dae0619.jar"
+hash = "4d0fd04e0b16f64df68459ef65d6bc4e7715ccdb10f641628f6ccd6a3571ad12"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-game-rule-api-v1-1.0.53+6ced4dd919-sources.jar"
+hash = "882b0138fd4e7a62ce198890f9318f675a89516b656a3dd0f7d4aa86d08ebae8"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-game-rule-api-v1-1.0.53+6ced4dd919.jar"
+hash = "2f43a946c56dd67308b632ff3ff22bbad90388d1a4ec11cfe013a6a9fed065ce"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-gametest-api-v1-2.0.5+6fc22b9919-sources.jar"
+hash = "eddc8c1ccdf9f071bc0266c446b3db51c33ebe67af976d1ada45fc6b48cb3425"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-gametest-api-v1-2.0.5+6fc22b9919.jar"
+hash = "1acac9a630c4651034972dc383cbab8d7d25454b300d8350e21109f2529f5f39"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-item-api-v1-11.2.0+3b3cb2e819-sources.jar"
+hash = "760684fa5151d9632914a3ed55f3d827904d1909d4c4874420d8af03eff51c30"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-item-api-v1-11.2.0+3b3cb2e819.jar"
+hash = "191cb1af10632f432418d91a280276bb94612d1af2ec32953a058c7e20f44735"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-item-group-api-v1-4.1.7+def88e3a19-sources.jar"
+hash = "696f27a35d0e7c80b480d5cc290c96e17edc90cc8d6ca30a64c46bf16e05350a"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-item-group-api-v1-4.1.7+def88e3a19.jar"
+hash = "26f2898edfbb4612f49c92ae8ac4bb3ce8cb8708a5741b3f6ba9407f9e2182e3"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-key-binding-api-v1-1.0.47+0af3f5a719-sources.jar"
+hash = "395c7854eb526e3247e4e956a4c05eef858abc84dd69df2df40689ac286edb3f"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-key-binding-api-v1-1.0.47+0af3f5a719.jar"
+hash = "5890383aa6a1c561146bb63fe4af42136a647dae5c39fe04e0cabc5889bf579e"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-keybindings-v0-0.2.45+df3654b319-sources.jar"
+hash = "2f1df2b6950ea23140e9e28bb1b17b31db13eca843f81b407bc850c556b50110"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-keybindings-v0-0.2.45+df3654b319.jar"
+hash = "270c99f5f123dad8308eb7c150da26ff438c539f62feebf59e3a17355d4faceb"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-lifecycle-events-v1-2.6.0+0865547519-sources.jar"
+hash = "efdf39d6a85481f434831be59f4a62fbc74a3e84f712d47263d885bd3a5bd9df"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-lifecycle-events-v1-2.6.0+0865547519.jar"
+hash = "38522bfdddd188cb96eb75b89315207351e922b9294ebf7266d0ed3cf79bfe6b"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-loot-api-v2-3.0.15+3f89f5a519-sources.jar"
+hash = "f0243791f5c6f1e43150a34d90808954e033bc6bbc35cb90497a78b326d9396b"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-loot-api-v2-3.0.15+3f89f5a519.jar"
+hash = "9c2c18aa68b94a0cf5ecb8f432fdc252f44aa93338534bfbdb01d44fbe420301"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-loot-api-v3-1.0.3+3f89f5a519-sources.jar"
+hash = "68f422595cef1abaac23d11f2acaaac47a560d9eb04b9f771b293cd2995c08bc"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-loot-api-v3-1.0.3+3f89f5a519.jar"
+hash = "3fe15b42f5e0fec9baf9bc410f5a3d7e9b9707a32f9d81b478899cd001d0bd3b"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-message-api-v1-6.0.14+8aaf3aca19-sources.jar"
+hash = "0da939c7c0bdb1e36239b8bde4451249f686401373a2d5533c66138481c6534a"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-message-api-v1-6.0.14+8aaf3aca19.jar"
+hash = "1d956601e6275e2350167b29558136c60209ec5566fb0b04e71e09a78fd9796a"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-model-loading-api-v1-2.1.0+b4d813fc19-sources.jar"
+hash = "5ce32d22e94b7dad3a21e23547e267d5df13fe144f436c98b5fa7e3013e34bc5"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-model-loading-api-v1-2.1.0+b4d813fc19.jar"
+hash = "4b8d03d0ae522c87510c42a26e6900976e03e56784aa4101d1099925192a813d"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-networking-api-v1-4.3.0+c7469b2119-sources.jar"
+hash = "2f3a87b57a548f52e121ef4c9f671e97c08e8275e36c480913a3cdb4cd3c57e7"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-networking-api-v1-4.3.0+c7469b2119.jar"
+hash = "37cde1e9ea46a47dc1a35f07945a244190cab04cfea2bd5c04ef80ef259742c3"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-object-builder-api-v1-15.2.1+40875a9319-sources.jar"
+hash = "56afa6d01e148e1d1aee37b1312cbb97c610d0d2ade42fd52e0b6bd1229b382e"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-object-builder-api-v1-15.2.1+40875a9319.jar"
+hash = "ed37a471a2a3eb977ec666d2c7f50f1716bff1bf2d5a2b8b7d1a635ad5b7633d"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-particles-v1-4.0.2+6573ed8c19-sources.jar"
+hash = "6d13f7ee6d2321bf71aac52936f1ce471ee7ede38b498230c3d5c8827ea8f484"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-particles-v1-4.0.2+6573ed8c19.jar"
+hash = "da1c2542fef760566a98fa43aef828a5c1eaf3703c1bcff5d17c8b0028dd4bb2"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-recipe-api-v1-5.0.15+2475392c19-sources.jar"
+hash = "a57c97662997991e85d81fab7a1a7088f140b201fcfcb2174806a7c1c9530039"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-recipe-api-v1-5.0.15+2475392c19.jar"
+hash = "95dfd46360f6fc650de8e33c4131ee92a004ec858efa5890c7220d966dd88d58"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-registry-sync-v0-5.3.1+e3eddc2119-sources.jar"
+hash = "dae34061ed8d7458763c6bb38cea5fa4655a4d3a2e3081b2c43c2e80b8d11b66"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-registry-sync-v0-5.3.1+e3eddc2119.jar"
+hash = "aeeae0d3598b576373a7ad6464a2dcc6c1fd99932950e1cfd208dac54580c47b"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-renderer-api-v1-3.4.1+b4d813fc19-sources.jar"
+hash = "e21729aa43381a10cafdf0b43af079bfc5e46f06929b9139b71e09598246aaac"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-renderer-api-v1-3.4.1+b4d813fc19.jar"
+hash = "cc616f735093d191a2c10333909815c2caca28133aa0601718f769ea2ff02950"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-renderer-indigo-1.7.1+c705a49c19-sources.jar"
+hash = "d33b1b25d4899507beedb0e75921271d3ccc5b70a38e79c7f6aa719788f5edba"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-renderer-indigo-1.7.1+c705a49c19.jar"
+hash = "9538ed3dee37dd91822babe68cee63ada619e16b688d77b61f52a74ba1687e78"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-renderer-registries-v1-3.2.69+df3654b319-sources.jar"
+hash = "323e177c06cfdd05878c7527df9736333a355e72b6ee57711fc4a9d2bf1f277c"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-renderer-registries-v1-3.2.69+df3654b319.jar"
+hash = "18932e538c7584c9c5f40ca1e5722f0303f2a4069a8832e8aee4812bd30ea562"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-rendering-data-attachment-v1-0.3.49+73761d2e19-sources.jar"
+hash = "1271cc791258cb8f55d45111b42cbe22374b153c948cb705e5d1086091d1d3cb"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-rendering-data-attachment-v1-0.3.49+73761d2e19.jar"
+hash = "586bfeafc4dfedc8061b18cf7fe1f88e124d31f2d8547b07ba2ee12e5b3dbf42"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-rendering-fluids-v1-3.1.6+1daea21519-sources.jar"
+hash = "0e5b9dbc800d8d8dfa343c444c214ac72f1073db31671042aa57420084542aac"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-rendering-fluids-v1-3.1.6+1daea21519.jar"
+hash = "d9d2d6249172b841ec544ef6f71376579ec0af3bbfc9f3d6a96450a5c39f0e3d"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-rendering-v0-1.1.72+df3654b319-sources.jar"
+hash = "4b584edaa066d93411f1c64078ea110cf4bb07d5ff80d10d1e1f1cef140aa853"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-rendering-v0-1.1.72+df3654b319.jar"
+hash = "317153aa4ffc0fe2f8f8b03b47e368ebded6517dc94daff2af66009cf75b53a9"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-rendering-v1-5.1.0+ab4c25a019-sources.jar"
+hash = "5d0ad9df9d4490bea2e877950f7f61b4dbacb39db99bdf812ab557c6a50016b8"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-rendering-v1-5.1.0+ab4c25a019.jar"
+hash = "43637d0929bfeafb57d3acb5164106665103123cba0108cb2e37c93889b9424f"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-resource-conditions-api-v1-4.3.0+8dc279b119-sources.jar"
+hash = "1e5809eab4af456010299eda7b70f6cc08ab759f03458bf83e2e382036711231"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-resource-conditions-api-v1-4.3.0+8dc279b119.jar"
+hash = "e820c1e019662d63423420279ed0514f44cc823b1be0ee6a5f654c72c2916108"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-resource-loader-v0-1.3.1+5b5275af19-sources.jar"
+hash = "bbd09fd208955ef1423b1e086a13048d076045f3e4fd1db76921a1dd82cc5941"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-resource-loader-v0-1.3.1+5b5275af19.jar"
+hash = "e0158dae5e55d1c113f4511c24a72ae7f265874d6e8f1e286052dc1772dc9697"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-screen-api-v1-2.0.25+8b68f1c719-sources.jar"
+hash = "d850cb9121014c2475d3fb1eaa49ae08d5a54d9db7625af60872c27df27581b8"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-screen-api-v1-2.0.25+8b68f1c719.jar"
+hash = "2bb53177b6d404e9339ace0dbad8c3fbeb7d45e7df844ddbe4b0e1e08155491b"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-screen-handler-api-v1-1.3.90+b559734419-sources.jar"
+hash = "bce850615f97912890e887fafd3a153fbd4ba525506e4c00abde5e794f0efcf5"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-screen-handler-api-v1-1.3.90+b559734419.jar"
+hash = "5a0311cbfc2b4f45b77f29fb6be76aafea9f399e202e13eb24fb6eda92d176db"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-sound-api-v1-1.0.23+6573ed8c19-sources.jar"
+hash = "c9cf9a55b2c7215ce14ec94e5dff61fb1f74762bf81c88dae885d513e16a17f4"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-sound-api-v1-1.0.23+6573ed8c19.jar"
+hash = "cca7754b10762f0f1be24b3715599e9609fda850876eb6be9ba6e28313051268"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-transfer-api-v1-5.4.3+c24bd99419-sources.jar"
+hash = "d0451f55217ff4a775c419ba952e5a1b80b8bfae3cd3db7c5c90eb4ed829e5f9"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-transfer-api-v1-5.4.3+c24bd99419.jar"
+hash = "e6cc0c7b4b68afcf5c2b3a522c7fb4774631fafe905018524b72af5a36c7e7ce"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-transitive-access-wideners-v1-6.2.0+45b9699719-sources.jar"
+hash = "84a46b67e0fbf90c5b88c7d7df1d43dfd61cf64194bde3099bd8225af2e632e0"
+
+[[files]]
+file = "stubs/build/loom-cache/remapped_working/loom_mappings_1_21_1_layered_hash_2198_v2.net.fabricmc.fabric-api-fabric-transitive-access-wideners-v1-6.2.0+45b9699719.jar"
+hash = "e717d28f9961e488c1b0e3ffe2c7f3a72b4962c3f10ba541b4fe04e95adf1fb8"
+
+[[files]]
+file = "stubs/build/reports/problems/problems-report.html"
+hash = "8027969b729e5e7f06feaa75ca9df51294fe21b8eca155205582abad7cc60fe5"
+
+[[files]]
+file = "stubs/build/resources/main/assets/streamcraft-server/blockstates/display_block.json"
+hash = "aa743ce83238150af10e39398d464e7500eac1e7ba5f2e88e0ef5cd386207c5b"
+
+[[files]]
+file = "stubs/build/resources/main/assets/streamcraft-server/models/item/display_block.json"
+hash = "3dbbdec8bec7942b5dd556fd512f8bb854ea89c0b0336472fd19aa8a1f47bbba"
+
+[[files]]
+file = "stubs/build/resources/main/assets/streamcraft-server/textures/item/display_block.png"
+hash = "86b8075fc3d26ecbb05785b0c425f6c53c2f56480f1c6a173eedf7a102e86e7e"
+
+[[files]]
+file = "stubs/build/resources/main/fabric.mod.json"
+hash = "82417f71933e5cdc4d9d4e1fb6825ecfaa560aa4a157175ba20f0838b1e41a53"
+
+[[files]]
+file = "stubs/build/tmp/compileJava/previous-compilation-data.bin"
+hash = "40d910439a7ca35b93d7c63d1ac5093ff1207884794a75daf3dadac36db7e362"
+
+[[files]]
+file = "stubs/build/tmp/jar/MANIFEST.MF"
+hash = "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
+
+[[files]]
+file = "stubs/build/tmp/remapJar/MANIFEST.MF"
+hash = "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
+
+[[files]]
+file = "stubs/gradle.properties"
+hash = "c6b12bcc566a8b61b5d72a26d6892dab49d71acc620937ddd6a2726601b9a8ac"
+
+[[files]]
+file = "stubs/gradle/wrapper/gradle-wrapper.jar"
+hash = "2db75c40782f5e8ba1fc278a5574bab070adccb2d21ca5a6e5ed840888448046"
+
+[[files]]
+file = "stubs/gradle/wrapper/gradle-wrapper.properties"
+hash = "8906bdbce6cdf99a1cf7f4ec366704977f3a702e513f2536969642fc1271fdd7"
+
+[[files]]
+file = "stubs/gradlew"
+hash = "e9e38e2ca724ca0c18861ab7eaa4a70bb56f3283f8e3725fe3726b50463a4de0"
+
+[[files]]
+file = "stubs/gradlew.bat"
+hash = "ecd8af472cd9402f4b8f4a1a9b081a94396f247d535cea4f631ce0953c98bbe3"
+
+[[files]]
+file = "stubs/settings.gradle"
+hash = "d4b033f3ed74bac39b6bc0b81fd11b027124597bcde47351148d79dc0e4b9cd3"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/TbaLiteStubs.java"
+hash = "be9f0490ef8158011ac6c57a0053e228a3a8be234617fe3ec4c2f85933f384a6"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/TbaLiteStubsClient.java"
+hash = "c9f795090ba3090497067ff9adb3d721456db8a1c8e0054b8f87106947a545b3"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/block/DisplayAppearance.java"
+hash = "e70ce3025489e1032440187154a4bad1e42f1e14a84ac53fb59ccc97f7e818fa"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/block/StubDisplayBlock.java"
+hash = "0c6eda3c507cd89192c80936d99457f5c04cd76337738118056a8b6d5754a9b1"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/block/StubDisplayBlockEntity.java"
+hash = "695d0b90344c6d81391b7b919080aaf58659ebfc156adf0c76981b8c610bb651"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/block/StubDisplayBlockRegistration.java"
+hash = "da8868db54304748364e17f27839749d84f37b60e325b9fae896992d35da629a"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/network/CoreCurriculumPayloads.java"
+hash = "25c82dcaba4cceee46d8ab36a2e6f51a19eb7419ee7a1ba711ff7c904d7b8435"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/network/SceneCraftPayloads.java"
+hash = "298df51b93690b79314c7888b262ceddd1862e1efc70113934410f4356add143"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/network/StreamCraftPayloads.java"
+hash = "762a17f4af4363c717414b670741d6462e383798b5b9fe55e61f702cf6d17cd0"
+
+[[files]]
+file = "stubs/src/main/java/com/tba/lite/stubs/network/SynthCraftPayloads.java"
+hash = "94711db63b229697ac3d411466a49f60c778696c58477c1364a1310b84de87e7"
+
+[[files]]
+file = "stubs/src/main/resources/assets/streamcraft-server/blockstates/display_block.json"
+hash = "aa743ce83238150af10e39398d464e7500eac1e7ba5f2e88e0ef5cd386207c5b"
+
+[[files]]
+file = "stubs/src/main/resources/assets/streamcraft-server/models/item/display_block.json"
+hash = "3dbbdec8bec7942b5dd556fd512f8bb854ea89c0b0336472fd19aa8a1f47bbba"
+
+[[files]]
+file = "stubs/src/main/resources/assets/streamcraft-server/textures/item/display_block.png"
+hash = "86b8075fc3d26ecbb05785b0c425f6c53c2f56480f1c6a173eedf7a102e86e7e"
+
+[[files]]
+file = "stubs/src/main/resources/fabric.mod.json"
+hash = "0d382f3d71d8db5a29903584c1a761af672ee9fff463a3cca695247b42e9eaf4"

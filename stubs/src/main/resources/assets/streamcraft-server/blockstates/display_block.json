@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "appearance=flower_pot,streaming=false": { "model": "minecraft:block/flower_pot" },
+    "appearance=flower_pot,streaming=true": { "model": "minecraft:block/flower_pot" },
+    "appearance=cobblestone,streaming=false": { "model": "minecraft:block/cobblestone" },
+    "appearance=cobblestone,streaming=true": { "model": "minecraft:block/cobblestone" },
+    "appearance=stone,streaming=false": { "model": "minecraft:block/stone" },
+    "appearance=stone,streaming=true": { "model": "minecraft:block/stone" },
+    "appearance=oak_planks,streaming=false": { "model": "minecraft:block/oak_planks" },
+    "appearance=oak_planks,streaming=true": { "model": "minecraft:block/oak_planks" },
+    "appearance=spruce_planks,streaming=false": { "model": "minecraft:block/spruce_planks" },
+    "appearance=spruce_planks,streaming=true": { "model": "minecraft:block/spruce_planks" },
+    "appearance=dark_oak_planks,streaming=false": { "model": "minecraft:block/dark_oak_planks" },
+    "appearance=dark_oak_planks,streaming=true": { "model": "minecraft:block/dark_oak_planks" },
+    "appearance=iron_block,streaming=false": { "model": "minecraft:block/iron_block" },
+    "appearance=iron_block,streaming=true": { "model": "minecraft:block/iron_block" },
+    "appearance=bookshelf,streaming=false": { "model": "minecraft:block/bookshelf" },
+    "appearance=bookshelf,streaming=true": { "model": "minecraft:block/bookshelf" },
+    "appearance=bricks,streaming=false": { "model": "minecraft:block/bricks" },
+    "appearance=bricks,streaming=true": { "model": "minecraft:block/bricks" },
+    "appearance=stone_bricks,streaming=false": { "model": "minecraft:block/stone_bricks" },
+    "appearance=stone_bricks,streaming=true": { "model": "minecraft:block/stone_bricks" },
+    "appearance=smooth_stone,streaming=false": { "model": "minecraft:block/smooth_stone" },
+    "appearance=smooth_stone,streaming=true": { "model": "minecraft:block/smooth_stone" }
+  }
+}

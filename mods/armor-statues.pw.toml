@@ -1,0 +1,13 @@
+name = "Armor Statues"
+filename = "ArmorStatues-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1afab31be284195f8925b4689bb2a7540ec9c782"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5732768
+project-id = 682566

@@ -1,0 +1,13 @@
+name = "Minescript"
+filename = "minescript-fabric-1.21.1-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65e4d167b2499827d5c65ca1348ec60535dda991"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5757403
+project-id = 657474

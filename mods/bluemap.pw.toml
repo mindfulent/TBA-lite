@@ -1,0 +1,13 @@
+name = "BlueMap"
+filename = "bluemap-5.7-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42777d6140234a75243c04156b63cfbe562a1cdb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6239405
+project-id = 406463

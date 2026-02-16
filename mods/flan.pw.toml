@@ -1,0 +1,13 @@
+name = "Flan (Fabric)"
+filename = "flan-1.21.1-1.12.4-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf1f6264057fabf7ef7edcb34c3d4f5003d49c74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7244017
+project-id = 404578

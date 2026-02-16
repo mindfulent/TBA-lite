@@ -1,0 +1,494 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "north"
+          },
+          {
+            "face": "floor"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "east"
+          },
+          {
+            "face": "floor"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "south"
+          },
+          {
+            "face": "floor"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "west"
+          },
+          {
+            "face": "floor"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "x": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "south"
+          },
+          {
+            "face": "ceiling"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "x": 180,
+        "y": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "west"
+          },
+          {
+            "face": "ceiling"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "x": 180,
+        "y": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "north"
+          },
+          {
+            "face": "ceiling"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "x": 180,
+        "y": 270
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "east"
+          },
+          {
+            "face": "ceiling"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "north"
+          },
+          {
+            "face": "wall"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "x": 90,
+        "y": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "east"
+          },
+          {
+            "face": "wall"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "x": 90,
+        "y": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "south"
+          },
+          {
+            "face": "wall"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button",
+        "uvlock": true,
+        "x": 90,
+        "y": 270
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "false"
+          },
+          {
+            "facing": "west"
+          },
+          {
+            "face": "wall"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "north"
+          },
+          {
+            "face": "floor"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "east"
+          },
+          {
+            "face": "floor"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "south"
+          },
+          {
+            "face": "floor"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "west"
+          },
+          {
+            "face": "floor"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "x": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "south"
+          },
+          {
+            "face": "ceiling"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "x": 180,
+        "y": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "west"
+          },
+          {
+            "face": "ceiling"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "x": 180,
+        "y": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "north"
+          },
+          {
+            "face": "ceiling"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "x": 180,
+        "y": 270
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "east"
+          },
+          {
+            "face": "ceiling"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "x": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "north"
+          },
+          {
+            "face": "wall"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "x": 90,
+        "y": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "east"
+          },
+          {
+            "face": "wall"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "x": 90,
+        "y": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "south"
+          },
+          {
+            "face": "wall"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "reframed:block/button_pressed",
+        "uvlock": true,
+        "x": 90,
+        "y": 270
+      },
+      "when": {
+        "AND": [
+          {
+            "powered": "true"
+          },
+          {
+            "facing": "west"
+          },
+          {
+            "face": "wall"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Export artifacts
+*.mrpack
+*.zip
+
+# Packwiz binary (platform-specific)
+packwiz.exe
+
+# Stubs build artifacts
+stubs/build/
+stubs/.gradle/
+stubs/.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
