@@ -1,8 +1,8 @@
-# TBA-Lite v0.9.96
+# TBA-Lite v0.9.98
 
 A lightweight variant of the [TBA](https://github.com/mindfulent/TBA) modpack for The Block Academy CMP. Same server, fewer mods, lower system requirements.
 
-**149 mods** (down from 190 in full TBA) — connects to the same Fabric 1.21.1 server as full TBA players.
+**147 mods** (down from 190 in full TBA) — connects to the same Fabric 1.21.1 server as full TBA players.
 
 ## What's Different?
 

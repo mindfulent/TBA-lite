@@ -1,5 +1,31 @@
 # TBA-Lite Changelog
 
+## v0.9.99 — 2026-03-02
+
+Synced with TBA v0.9.99. Added 4 new mods.
+
+**151 mods** (up from 147)
+
+### Added
+- **Mighty Mail** 1.1.4 — In-game mailbox system for sending items and letters between players (+ Framework 0.13.11 library)
+- **Cubes Without Borders** 3.0.0 — Borderless fullscreen windowed mode
+- **Immersive Aircraft** 1.4.2 — Craftable biplanes, airships, and gyrodyne helicopters
+
+### Updated
+- **Connectible Chains** 2.5.5 → 2.5.7
+
+## v0.9.98 — 2026-02-16
+
+Synced with TBA v0.9.98. Removed two mods flagged by Modrinth for redistribution policy.
+
+**147 mods** (down from 149)
+
+### Removed
+- **Cupboard** — Library mod (CurseForge-only, not permitted as Modrinth override)
+- **Connectivity** — Network connection fixes (CurseForge-only, not permitted as Modrinth override)
+
+Both mods were flagged by Modrinth's AutoMod as copyrighted content that cannot be redistributed as overrides. Neither is available on Modrinth. CurseForge submission was unaffected.
+
 ## v0.9.96 — 2026-02-16
 
 Initial release of TBA-Lite, a lightweight variant of the TBA modpack for players with lower-end machines. Connects to the same TBA server as the full modpack.
