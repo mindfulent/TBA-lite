@@ -1,5 +1,21 @@
 # TBA-Lite Changelog
 
+## v1.0.1 — 2026-04-19
+
+Compatibility release — restores server connection after the full TBA modpack added ShapeCraft.
+
+**151 mods** (unchanged)
+
+### Fixed
+- **Server connection rejected** with `Received 129 registry entries that are unknown to this client` when joining the TBA server. Caused by ShapeCraft being added to TBA (v1.0.0+), which registers 64 custom blocks, 64 items, and a block entity type that TBA-Lite clients don't have. Connection now succeeds — ShapeCraft blocks placed by full-TBA players render as missing-texture (purple/black) but no longer block gameplay.
+
+### Changed
+- **tba-lite-stubs** 0.1.0 → 0.2.0 — Now also stubs ShapeCraft's registry surface: 64 pool blocks, 64 block items, `pool_block_entity`, and 9 network payloads (3 C2S + 6 S2C). Added `shapecraft` to the `provides` list.
+- **Distant Horizons** 2.4.5-b → 3.0.1-b — Synced from full TBA.
+
+### Notes
+TBA-Lite remains feature-parity with its scope: same server as full TBA players, but cannot author ShapeCraft blocks, generate music (SynthCraft), stream video (StreamCraft), record highlights (SceneCraft), or submit builds (CoreCurriculum). Install full TBA for those features.
+
 ## v0.9.99 — 2026-03-02
 
 Synced with TBA v0.9.99. Added 4 new mods.

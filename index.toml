@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "b7e36eacfad8731ad993ffbba158e33a013b736b48e271eb05143d00d99eeb4e"
+hash = "ba0adb595c1abd57e51eef4c7944d65e3e54d34815383e839c4cc49af829d7b0"
 metafile = true
 
 [[files]]
@@ -1184,8 +1184,8 @@ hash = "f12e69b576da03cd12b57007ba05000497c0a87966b1816d2c425db4e67c0b6f"
 metafile = true
 
 [[files]]
-file = "mods/tba-lite-stubs-0.1.0.jar"
-hash = "b600b1ed00eb17a35da2b204b2b560955c60e4ddf77c49015ed61155577f3699"
+file = "mods/tba-lite-stubs-0.2.0.jar"
+hash = "61504ea93b399429db6294c7d9f2af4ea7c7dca0abe07fe338bdc143e6216a49"
 
 [[files]]
 file = "mods/text-placeholder-api.pw.toml"

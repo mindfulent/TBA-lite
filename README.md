@@ -1,4 +1,4 @@
-# TBA-Lite v0.9.98
+# TBA-Lite v1.0.1
 
 A lightweight variant of the [TBA](https://github.com/mindfulent/TBA) modpack for The Block Academy CMP. Same server, fewer mods, lower system requirements.
 
@@ -128,10 +128,11 @@ Use `/register <your-minecraft-username>` in our Discord server.
 
 The `stubs/` directory contains the source code for the compatibility stub mod. It registers:
 
-- **34 payload types** across 4 namespaces (streamcraft-server, synthcraft, scenecraft, corecurriculum)
+- **43 payload types** across 5 namespaces (streamcraft-server, synthcraft, scenecraft, corecurriculum, shapecraft)
 - **StreamCraft display block** (block, item, block entity) so existing display blocks in the world render correctly
+- **ShapeCraft pool blocks** (64 blocks + 64 items + `pool_block_entity`) so registry sync with the server passes
 
-The stub mod uses `"provides"` in fabric.mod.json to satisfy mod dependency checks for all 4 custom mods.
+The stub mod uses `"provides"` in fabric.mod.json to satisfy mod dependency checks for all 5 custom mods.
 
 ### Building the Stub
 
