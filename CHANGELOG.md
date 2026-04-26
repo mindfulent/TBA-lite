@@ -1,5 +1,29 @@
 # TBA-Lite Changelog
 
+## v1.0.2 — 2026-04-25
+
+Modrinth distribution release — addresses AutoMod rejections for redistributed and unidentifiable content. No gameplay changes.
+
+**150 mods** (down from 151)
+
+### Removed
+- **LuckPerms-Fabric-Placeholders** — Server-side placeholder integration. Pulled from `ci.lucko.me`, which isn't on Modrinth's allowed download host list, so it was bundled as an override and flagged as unidentifiable content. Not needed on TBA-Lite (server-side only; players don't run a server with it).
+
+### Changed
+- **tba-lite-stubs** is now hosted on a [TBA-Lite GitHub release](https://github.com/mindfulent/TBA-lite/releases/tag/stubs-v0.2.0) and referenced by URL in the packwiz manifest, instead of being bundled as an override. Same JAR (0.2.0), same hash — purely a distribution change so AutoMod can fingerprint it via `github.com` (an allowed host) rather than rejecting an unidentified bundled file.
+
+### Notes — Modrinth AutoMod
+Earlier versions hit AutoMod rejections that are now fully resolved:
+
+| Version | Issue | Resolved in |
+|---------|-------|-------------|
+| 0.9.96, 0.9.98 | `connectivity-fabric` and `cupboard-fabric` bundled as overrides — author has declined Modrinth redistribution | 0.9.99 (mods removed) |
+| 0.9.98 | Individual `synthcraft`/`corecurriculum`/`streamcraft`/`scenecraft` JARs as unidentifiable overrides | 0.9.99 (consolidated into single `tba-lite-stubs`) |
+| 1.0.1 | `LuckPerms-Fabric-Placeholders.jar` unidentifiable override | **1.0.2** (mod removed) |
+| 1.0.1 | `tba-lite-stubs-0.2.0.jar` unidentifiable override | **1.0.2** (now URL-hosted via GitHub release) |
+
+The `tba-lite-stubs` JAR remains under All Rights Reserved license and is authored by Slash (the modpack author) — it's a TBA-Lite-specific compatibility shell, not a redistribution of any third-party mod.
+
 ## v1.0.1 — 2026-04-19
 
 Compatibility release — restores server connection after the full TBA modpack added ShapeCraft.

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "9207626b3e5595dcf201c2cb9827acb31e50b713b3d17f697dcab8d5a316263e"
+hash = "277c5523c209642ebab2b310cb019a4386c5190044c46e04488de86eaaed68f5"
 
 [[files]]
 file = "README.md"
-hash = "b8fa894c8cfe1fc4beef5513e2b7015cf75fd0fea04ae1b2671e2b4b3fb1eb9f"
+hash = "fd0a9d2b162ef3187ad15086115b3e79b46fced251956f3d62ff62daa61cbe21"
 
 [[files]]
 file = "config/AdvancedBackups.properties"
@@ -984,11 +984,6 @@ hash = "73fc17d4b0f3415b8c39c87f32a01b894d7ff2bbd12387a9359ffd3e7a9493b9"
 metafile = true
 
 [[files]]
-file = "mods/luckperms-placeholders.pw.toml"
-hash = "9396c98d92c8e977977c113979b7cf45c33328b4d15049ed17421b8c323279b1"
-metafile = true
-
-[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "1ba38caed3f7aa06e462bdbc0405d67bd19cdefafe0a00458a80915a7fcbf46e"
 metafile = true
@@ -1184,8 +1179,9 @@ hash = "f12e69b576da03cd12b57007ba05000497c0a87966b1816d2c425db4e67c0b6f"
 metafile = true
 
 [[files]]
-file = "mods/tba-lite-stubs-0.2.0.jar"
-hash = "61504ea93b399429db6294c7d9f2af4ea7c7dca0abe07fe338bdc143e6216a49"
+file = "mods/tba-lite-stubs.pw.toml"
+hash = "65ed44ca540c4b65a8f3b4fb9fca48cc0725e7a0088c593a206dfc130790a3f2"
+metafile = true
 
 [[files]]
 file = "mods/text-placeholder-api.pw.toml"
