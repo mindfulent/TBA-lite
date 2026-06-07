@@ -10,7 +10,7 @@ Modrinth distribution release — addresses AutoMod rejections for redistributed
 - **LuckPerms-Fabric-Placeholders** — Server-side placeholder integration. Pulled from `ci.lucko.me`, which isn't on Modrinth's allowed download host list, so it was bundled as an override and flagged as unidentifiable content. Not needed on TBA-Lite (server-side only; players don't run a server with it).
 
 ### Changed
-- **tba-lite-stubs** is now hosted on a [TBA-Lite GitHub release](https://github.com/mindfulent/TBA-lite/releases/tag/stubs-v0.2.0) and referenced by URL in the packwiz manifest, instead of being bundled as an override. Same JAR (0.2.0), same hash — purely a distribution change so AutoMod can fingerprint it via `github.com` (an allowed host) rather than rejecting an unidentified bundled file.
+- **tba-lite-stubs** is now hosted on a [TBA-Lite GitHub release](https://github.com/slashdaemon/TBA-lite/releases/tag/stubs-v0.2.0) and referenced by URL in the packwiz manifest, instead of being bundled as an override. Same JAR (0.2.0), same hash — purely a distribution change so AutoMod can fingerprint it via `github.com` (an allowed host) rather than rejecting an unidentified bundled file.
 
 ### Notes — Modrinth AutoMod
 Earlier versions hit AutoMod rejections that are now fully resolved:

@@ -464,7 +464,7 @@ Long-term, if payload types change frequently, migrate to Option B.
    - Clear messaging: "Same server, lighter client"
 
 9. **Distribution**
-   - Create GitHub repo `mindfulent/TBA-Lite`
+   - Create GitHub repo `slashdaemon/TBA-Lite`
    - GitHub releases with `.mrpack` and CurseForge `.zip`
    - Discord announcement in #server-releases
 

@@ -1,6 +1,6 @@
 # TBA-Lite v1.0.1
 
-A lightweight variant of the [TBA](https://github.com/mindfulent/TBA) modpack for The Block Academy CMP. Same server, fewer mods, lower system requirements.
+A lightweight variant of the [TBA](https://github.com/slashdaemon/TBA) modpack for The Block Academy CMP. Same server, fewer mods, lower system requirements.
 
 **147 mods** (down from 190 in full TBA) — connects to the same Fabric 1.21.1 server as full TBA players.
 
@@ -41,13 +41,13 @@ All building, decoration, content, farming, multiplayer, performance, and server
 ## Quick Start
 
 ### CurseForge App
-1. Download the latest `.zip` from [Releases](https://github.com/mindfulent/TBA-lite/releases)
+1. Download the latest `.zip` from [Releases](https://github.com/slashdaemon/TBA-lite/releases)
 2. In CurseForge: **Create Custom Profile** → **Import** → Select the `.zip`
 3. Allocate 4-6 GB RAM
 4. Connect to the server
 
 ### Prism Launcher
-1. Download the latest `.mrpack` from [Releases](https://github.com/mindfulent/TBA-lite/releases)
+1. Download the latest `.mrpack` from [Releases](https://github.com/slashdaemon/TBA-lite/releases)
 2. In Prism: **Add Instance** → **Import** → Select the `.mrpack`
 3. Allocate 4-6 GB RAM
 4. Connect to the server
@@ -168,7 +168,7 @@ TBA-lite/
 
 ```bash
 # Clone the repository
-git clone https://github.com/mindfulent/TBA-lite.git
+git clone https://github.com/slashdaemon/TBA-lite.git
 cd TBA-lite
 
 # Download Packwiz
@@ -205,7 +205,7 @@ This modpack configuration is open source. Individual mods retain their respecti
 
 ## Links
 
-- [Full TBA Modpack](https://github.com/mindfulent/TBA) - The complete 190-mod experience
+- [Full TBA Modpack](https://github.com/slashdaemon/TBA) - The complete 190-mod experience
 - [The Block Academy](https://theblockacademy.com) - Community website
 - [Prism Launcher](https://prismlauncher.org/) - Recommended launcher
 - [Packwiz Documentation](https://packwiz.infra.link/) - Modpack tooling
